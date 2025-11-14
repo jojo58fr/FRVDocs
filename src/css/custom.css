@@ -1,30 +1,190 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;600&display=swap');
+
 /**
- * Any CSS included here will be global. The classic template
- * bundles Infima by default. Infima is a CSS framework designed to
- * work well for content-centric websites.
+ * Global overrides inspired by the palette you shared.
+ * Colors live in CSS variables so they can be reused throughout the site.
  */
 
-/* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+  color-scheme: light;
+  --background: #f6f8fc;
+  --surface: rgba(255, 255, 255, 0.86);
+  --surface-elevated: #ffffff;
+  --surface-muted: rgba(148, 163, 184, 0.12);
+  --surface-overlay: rgba(255, 255, 255, 0.68);
+  --text-primary: #0f172a;
+  --text-secondary: #475569;
+  --text-tertiary: #64748b;
+  --accent: #22c55e;
+  --accent-secondary: #4f46e5;
+  --accent-strong: #16a34a;
+  --accent-soft: rgba(34, 197, 94, 0.16);
+  --border-soft: rgba(15, 23, 42, 0.12);
+  --border-strong: rgba(15, 23, 42, 0.18);
+  --shadow-soft: 0 30px 60px -40px rgba(15, 23, 42, 0.35);
+  --shadow-card: 0 18px 38px -24px rgba(15, 23, 42, 0.28);
+  --glow: rgba(34, 197, 94, 0.28);
+  --gradient-start: #38bdf8;
+  --gradient-end: #34d399;
+
+  --ifm-color-primary: var(--accent);
+  --ifm-color-primary-dark: var(--accent-strong);
+  --ifm-color-primary-darker: #0f663c;
+  --ifm-color-primary-darkest: #0d5130;
+  --ifm-color-primary-light: #4ade80;
+  --ifm-color-primary-lighter: #86efac;
+  --ifm-color-primary-lightest: #d1fae5;
+  --ifm-color-link: var(--accent-secondary);
   --ifm-code-font-size: 95%;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --docusaurus-highlighted-code-line-bg: rgba(34, 197, 94, 0.1);
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  color-scheme: dark;
+  --background: #020817;
+  --surface: rgba(7, 11, 23, 0.72);
+  --surface-elevated: rgba(17, 24, 39, 0.92);
+  --surface-muted: rgba(15, 23, 42, 0.45);
+  --surface-overlay: rgba(2, 8, 23, 0.75);
+  --text-primary: #e2e8f0;
+  --text-secondary: #cbd5f5;
+  --text-tertiary: #94a3b8;
+  --accent: #22d3ee;
+  --accent-secondary: rgba(217, 205, 255, 0.95);
+  --accent-strong: #0ea5e9;
+  --accent-soft: rgba(14, 165, 233, 0.25);
+  --border-soft: rgba(148, 163, 184, 0.2);
+  --border-strong: rgba(226, 232, 240, 0.24);
+  --shadow-soft: 0 30px 80px -32px rgba(15, 23, 42, 0.65);
+  --shadow-card: 0 22px 48px -26px rgba(2, 132, 199, 0.4);
+  --glow: rgba(34, 211, 238, 0.32);
+  --gradient-start: #6366f1;
+  --gradient-end: #22d3ee;
+
+  --ifm-color-primary: var(--accent);
+  --ifm-color-primary-dark: var(--accent-strong);
+  --ifm-color-primary-darker: #0b476b;
+  --ifm-color-primary-darkest: #073249;
+  --ifm-color-primary-light: #38bdf8;
+  --ifm-color-primary-lighter: #7dd3fc;
+  --ifm-color-primary-lightest: #c7e7ff;
+  --ifm-color-link: var(--accent-secondary);
+  --docusaurus-highlighted-code-line-bg: rgba(5, 135, 255, 0.15);
+}
+
+.button--outline {
+  color: var(--accent);
+  border-color: rgba(34, 197, 94, 0.8);
+  background-color: transparent;
+  transition: border-color 0.3s ease, background-color 0.3s ease;
+}
+
+.button--outline:hover,
+.button--outline:focus-visible {
+  border-color: var(--accent-strong);
+  background-color: rgba(34, 197, 94, 0.1);
+  color: var(--accent-strong);
+}
+
+.button {
+  transition: transform 0.3s ease, box-shadow 0.3s ease, background 0.3s ease;
+}
+
+.button:hover,
+.button:focus-visible {
+  transform: translateY(-2px) scale(1.01);
+  box-shadow: 0 12px 30px rgba(34, 197, 94, 0.25);
+}
+
+.lexicon-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  margin: 1rem 0 0;
+}
+
+.lexicon-card {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem 1.25rem;
+  background: var(--surface, #ffffff);
+  border: 1px solid var(--border-soft, rgba(15, 23, 42, 0.18));
+  text-decoration: none;
+  color: var(--text-primary, #111827);
+  box-shadow: none;
+  transition: border-color 0.25s ease, background 0.25s ease;
+  border-radius: 0;
+}
+
+.lexicon-card:hover,
+.lexicon-card:focus-visible {
+  border-color: var(--accent-strong, #16a34a);
+}
+
+.lexicon-card strong {
+  display: block;
+  color: var(--text-primary, #0f172a);
+  font-size: 1rem;
+}
+
+.lexicon-card p {
+  margin: 0;
+  color: var(--text-secondary, #475569);
+  font-size: 0.95rem;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.lexicon-wiki {
+  background: var(--surface, #fdfdf8);
+  border: 1px solid var(--border-soft, rgba(15, 23, 42, 0.18));
+  border-radius: 16px;
+  padding: clamp(1.5rem, 2vw, 2.75rem);
+  box-shadow: 0 20px 40px rgba(15, 23, 42, 0.1);
+  font-family: 'Libre Baskerville', 'Georgia', 'Times New Roman', serif;
+}
+
+.lexicon-summary {
+  margin: 0 0 1.25rem;
+  line-height: 1.6;
+  color: var(--text-secondary, #475569);
+}
+
+.lexicon-wiki strong {
+  color: var(--text-primary, #0f172a);
+  font-weight: 600;
+}
+
+.lexicon-section {
+  padding: 1.25rem 0;
+  border-bottom: 1px solid rgba(15, 23, 42, 0.08);
+}
+
+.lexicon-section:last-child {
+  border-bottom: none;
+}
+
+.lexicon-letter-row {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin: 0 0 1rem;
+}
+
+.lexicon-letter-heading {
+  font-size: 1.4rem;
+  font-weight: 700;
+  letter-spacing: 0.2rem;
+  color: var(--accent-strong, #16a34a);
+}
+
+.lexicon-letter-divider {
+  flex: 1;
+  height: 1px;
+  background: rgba(15, 23, 42, 0.25);
 }

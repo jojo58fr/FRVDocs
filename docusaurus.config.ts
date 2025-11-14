@@ -5,8 +5,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'FRVtubers',
+  tagline: 'La référence Tutos & Documentaire pour débuter en tant que VTuberFR',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -15,7 +15,7 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://docs.frvtubers.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -31,8 +31,16 @@ const config: Config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'fr',
+    locales: ['fr', 'en'],
+    localeConfigs: {
+      'fr': {
+        label: 'Français',
+      },
+      en: {
+        label: 'English',
+      },
+    },
   },
 
   presets: [
@@ -75,22 +83,26 @@ const config: Config = {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: 'My Site',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'FRVDocs Logo',
+        src: 'img/logo.png',
       },
       items: [
         {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Documentation',
         },
+        {to: '/docs/lexique', label: 'Lexique', position: 'left'},
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
+          href: 'https://github.com/jojo58fr/FRVDocs',
+          label: 'Code Source (GitHub)',
+          position: 'right',
+        },
+        {
+          type: 'localeDropdown',
           position: 'right',
         },
       ],
@@ -138,7 +150,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Startingames Origins. Tous droits réservés.`,
     },
     prism: {
       theme: prismThemes.github,
