@@ -1,0 +1,89 @@
+.wrapper {
+  margin-top: 2rem;
+  padding: 1.25rem;
+  border-radius: 1rem;
+  background: var(--ifm-background-surface);
+  border: 1px solid var(--ifm-border-color);
+  box-shadow: 0 0.5rem 1.5rem rgba(15, 23, 42, 0.07);
+}
+
+.heading {
+  margin: 0;
+  font-size: 1.25rem;
+  color: var(--ifm-color-primary);
+  margin-bottom: 1rem;
+}
+
+.grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  padding: 1rem;
+  border-radius: 0.75rem;
+  background: var(--ifm-background-card);
+  border: 1px solid rgba(15, 23, 42, 0.06);
+  min-height: 240px;
+}
+
+.avatarWrapper {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.avatar,
+.avatar :global(.author-image) {
+  width: 96px;
+  height: 96px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid var(--ifm-color-primary);
+  box-shadow: 0 0.25rem 0.75rem rgba(15, 23, 42, 0.15);
+}
+
+.meta {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  text-align: center;
+}
+
+.name {
+  font-weight: 700;
+  font-size: 1.125rem;
+}
+
+.title {
+  font-size: 0.95rem;
+  color: rgba(15, 23, 42, 0.7);
+}
+
+.bio {
+  margin: 0;
+  font-size: 0.9rem;
+  color: rgba(15, 23, 42, 0.85);
+  line-height: 1.4;
+}
+
+.profileLink {
+  align-self: center;
+  font-size: 0.9rem;
+  color: var(--ifm-color-primary);
+  font-weight: 500;
+}
+
+@media (max-width: 640px) {
+  .wrapper {
+    padding: 1rem;
+  }
+
+  .card {
+    padding: 0.75rem;
+  }
+}

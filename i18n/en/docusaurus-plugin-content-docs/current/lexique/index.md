@@ -2,7 +2,7 @@
 title: VTubing Glossary
 sidebar_label: Alphabetical Glossary
 description: An alphabetical table of contents for all documented VTubing terms.
-slug: /lexicon
+slug: /lexique
 ---
 
 ## Alphabetical VTubing Glossary

@@ -165,7 +165,7 @@ export default function Home(): ReactNode {
                 </div>
               </div>
               <div className={styles.communityActions}>
-                <Link className="button button--outline button--lg" to="/blog">
+                <Link className="button button--outline button--lg" to="/docs/intro">
                   <i className={clsx('fa-brands fa-discord', styles.discordIcon)} aria-hidden="true" />
                   {localeContent.discordButton}
                 </Link>

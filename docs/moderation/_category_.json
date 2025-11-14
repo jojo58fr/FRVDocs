@@ -1,0 +1,8 @@
+{
+  "label": "Partie modération",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Tous les guides écrit par la communauté pour gérer la modération de tes contenus"
+  }
+}
