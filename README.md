@@ -59,4 +59,4 @@ Pour toute suggestion de contact ou question précise, consulte les correspondan
 - Contact: Joachim Miens – contact@joachim-miens.com
 
 ## Licence
-La licence est sous GPLV3. Vous pouvez consulter la licence complète ici: [LICENCE.md](LICENCE.md). Un résumé de la licence se trouve ici: [GPLV3.md](GPLV3.md)
+La licence est sous GPLV3. Vous pouvez consulter la licence complète ici: [LICENSE.md](LICENSE.md). Un résumé de la licence se trouve ici: [GPLV3.md](GPLV3.md)
