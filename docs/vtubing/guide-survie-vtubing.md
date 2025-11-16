@@ -193,7 +193,7 @@ Donc :
 
 - Ne laissez pas les comportements que vous jugez problématiques s'installer.
 - Interdisez‑les, et prenez des sanctions appropriées.
-- Il vaut mieux perdre un « pilier » de la communauté d'un coup sec que le laisser pourrir le reste.
+- Il vaut mieux perdre un « pilier » de la communauté d'un coup sec que le laisser faire pourrir tout le reste.
 
 ---
 
