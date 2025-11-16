@@ -9,7 +9,7 @@ slug: /lexique/fanart
 Fanart includes drawings, animations, videos, and other content created by fans about a VTuber. These artworks promote the talent and highlight the creativity of the community.
 
 ## Best practices
-- Respect the artist’s rules (some creators forbid commercial resale).  
+- Respect the artist's rules (some creators forbid commercial resale).  
 - Credit the original fanartist when sharing.  
 - Encourage the fan community by showcasing or commenting on their art.
 

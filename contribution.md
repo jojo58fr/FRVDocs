@@ -6,7 +6,7 @@ Merci d'envisager une contribution à FRVDocs ! Le projet fonctionne grâce aux 
 
 1. Rejoins `📚｜tutos-et-ressources` ou `🤔｜aide-et-questions`.
 2. Poste ton contenu (astuce, lien, question, ressource) avec un contexte : outil, étape, public visé…
-3. L’équipe FRVtubers relaye, structure et intègre ta contribution dans la documentation. Tu es crédité(e) par ton pseudo.
+3. L'équipe FRVtubers relaye, structure et intègre ta contribution dans la documentation. Tu es crédité(e) par ton pseudo.
 
 ## Sur GitHub
 
@@ -30,8 +30,8 @@ Merci d'envisager une contribution à FRVDocs ! Le projet fonctionne grâce aux 
 ## Bonnes pratiques
 
 - Favorise les sources francophones ou contextualise les ressources étrangères.
-- Rédige avec une orthographe soignée : la qualité écrit reflète l’image FRVtubers.
+- Rédige avec une orthographe soignée : la qualité écrit reflète l'image FRVtubers.
 - Respecte les licences : cite les auteurs, liens et captures.
-- Besoin d’inspiration ? Consulte `docs/` et `docs/lexique/` pour voir les formats en place.
+- Besoin d'inspiration ? Consulte `docs/` et `docs/lexique/` pour voir les formats en place.
 
-Le staff FRVtubers s’engage à reprendre les contributions bénévolement, les mettre à jour et les valoriser dans la documentation. Merci pour ton soutien !
+Le staff FRVtubers s'engage à reprendre les contributions bénévolement, les mettre à jour et les valoriser dans la documentation. Merci pour ton soutien !

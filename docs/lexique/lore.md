@@ -7,7 +7,7 @@ slug: /lexique/lore
 ---
 
 ## Définition
-Les éléments fictionnels autour d’un VTuber.
+Les éléments fictionnels autour d'un VTuber.
 
 ## Sources
 - https://streamlabs.com/content-hub/post/vtubing-custom-slang-beginners

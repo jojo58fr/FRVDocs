@@ -6,7 +6,7 @@ slug: /lexique/live2d
 ---
 
 ## Définition
-**Live2D** est une technologie développée par Live2D Co., Ltd. qui permet d’animer une illustration en 2D par morphing. Elle conserve l’intégrité artistique du dessin tout en autorisant les mouvements du corps, de la tête, des yeux et de la bouche.
+**Live2D** est une technologie développée par Live2D Co., Ltd. qui permet d'animer une illustration en 2D par morphing. Elle conserve l'intégrité artistique du dessin tout en autorisant les mouvements du corps, de la tête, des yeux et de la bouche.
 
 ## Processus
 - **Préparation PSD** : séparation des éléments (yeux, bouche, bras, accessoires) sur des calques.  

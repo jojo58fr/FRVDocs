@@ -6,7 +6,7 @@ slug: /lexique/vod
 ---
 
 ## Définition
-Une **VOD** (vidéo à la demande) est l’enregistrement d’un live ou d’une vidéo éditée que les spectateurs peuvent regarder après la diffusion. Les VTubers publient souvent des VODs pour que la communauté puisse revoir un stream important ou découvrir un tutoriel en différé.
+Une **VOD** (vidéo à la demande) est l'enregistrement d'un live ou d'une vidéo éditée que les spectateurs peuvent regarder après la diffusion. Les VTubers publient souvent des VODs pour que la communauté puisse revoir un stream important ou découvrir un tutoriel en différé.
 
 ## Usages typiques
 - Les plateformes (YouTube, Twitch) conservent les archives pendant plusieurs jours ou semaines.  

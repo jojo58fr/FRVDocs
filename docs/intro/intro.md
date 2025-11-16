@@ -11,8 +11,8 @@ authors: [TakuDev]
 </p>
 
 
-Bienvenue sur **FRVDocs**, la documentation communautaire dédiée à l’écosystème **FRVtubers**, une communauté francophone de créateurs et passionnés de VTubing.  
-Ce projet a pour objectif de centraliser des guides, tutoriels, bonnes pratiques, ressources techniques et informations utiles afin d’aider aussi bien les débutants que les utilisateurs avancés.
+Bienvenue sur **FRVDocs**, la documentation communautaire dédiée à l'écosystème **FRVtubers**, une communauté francophone de créateurs et passionnés de VTubing.  
+Ce projet a pour objectif de centraliser des guides, tutoriels, bonnes pratiques, ressources techniques et informations utiles afin d'aider aussi bien les débutants que les utilisateurs avancés.
 
 FRVDocs est un projet **ouvert, collaboratif et évolutif** : tout le monde peut contribuer, que ce soit par des corrections, des ajouts, des retours, ou simplement en partageant son expérience.
 
@@ -25,10 +25,10 @@ Ce site a pour but de rassembler en un seul endroit :
 - des ressources avancées pour les créateurs expérimentés,
 - des explications techniques,
 - des outils utiles,
-- des retours d’expérience partagés par la communauté.
+- des retours d'expérience partagés par la communauté.
 
 
-Notre objectif est simple : **faciliter l’accès à l’information** et **soutenir chacun dans son parcours VTuber**, que ce soit pour débuter, s’améliorer ou explorer de nouveaux aspects du domaine.
+Notre objectif est simple : **faciliter l'accès à l'information** et **soutenir chacun dans son parcours VTuber**, que ce soit pour débuter, s'améliorer ou explorer de nouveaux aspects du domaine.
 
 ---
 
@@ -38,5 +38,5 @@ FRVDocs vit grâce à ses contributeurs. Que vous souhaitiez corriger une petite
 
 👉 Pour savoir comment contribuer, consultez la page : **[Comment contribuer](./contribuer)**.
 
-Merci d’aider à faire grandir la documentation francophone des VTubers ! 🎉  
-N’hésitez pas à rejoindre le mouvement et à partager vos connaissances.
+Merci d'aider à faire grandir la documentation francophone des VTubers ! 🎉  
+N'hésitez pas à rejoindre le mouvement et à partager vos connaissances.

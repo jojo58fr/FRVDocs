@@ -32,7 +32,7 @@ slug: /lexique
       <a class="lexicon-card" href="/docs/lexique/asmrtist">
         <div>
           <strong>ASMRtist</strong>
-          <p>Un VTuber spécialisé dans l’ASMR : des triggers doux (sleep, nettoyage d’oreilles) ou plus suggestifs, parfois aussi appelé ASMRist.</p>
+          <p>Un VTuber spécialisé dans l'ASMR : des triggers doux (sleep, nettoyage d'oreilles) ou plus suggestifs, parfois aussi appelé ASMRist.</p>
         </div>
       </a>
       <a class="lexicon-card" href="/docs/lexique/avtuber">
@@ -50,7 +50,7 @@ slug: /lexique
       <a class="lexicon-card" href="/docs/lexique/agence-vtuber">
         <div>
           <strong>Agence VTuber</strong>
-          <p>Une agence VTuber est une entreprise qui recrute, forme et gère des créateurs à avatars virtuels, assurant technique, promotion, monétisation et organisation d’événements.</p>
+          <p>Une agence VTuber est une entreprise qui recrute, forme et gère des créateurs à avatars virtuels, assurant technique, promotion, monétisation et organisation d'événements.</p>
         </div>
       </a>
       <a class="lexicon-card" href="/docs/lexique/akasupa">
@@ -68,7 +68,7 @@ slug: /lexique
       <a class="lexicon-card" href="/docs/lexique/avatar-virtuel">
         <div>
           <strong>Avatar virtuel</strong>
-          <p>Un avatar est la représentation visuelle et identitaire d’une personne sur internet, incarnant pour un VTuber la personnalité, les émotions et l’univers que le créateur souhaite projeter.</p>
+          <p>Un avatar est la représentation visuelle et identitaire d'une personne sur internet, incarnant pour un VTuber la personnalité, les émotions et l'univers que le créateur souhaite projeter.</p>
         </div>
       </a>
     </div>
@@ -114,25 +114,25 @@ slug: /lexique
       <a class="lexicon-card" href="/docs/lexique/carrier-pigeon">
         <div>
           <strong>Carrier pigeon</strong>
-          <p>Un spectateur relayant les messages d’un stream vers un autre, souvent perçu comme du stream sniping.</p>
+          <p>Un spectateur relayant les messages d'un stream vers un autre, souvent perçu comme du stream sniping.</p>
         </div>
       </a>
       <a class="lexicon-card" href="/docs/lexique/chroma-key">
         <div>
           <strong>Chroma key</strong>
-          <p>Le chroma key consiste à filmer un sujet sur fond uni afin de l’isoler et le superposer à un décor numérique, utile en VTubing/Streaming pour créer des overlays stylisés.</p>
+          <p>Le chroma key consiste à filmer un sujet sur fond uni afin de l'isoler et le superposer à un décor numérique, utile en VTubing/Streaming pour créer des overlays stylisés.</p>
         </div>
       </a>
       <a class="lexicon-card" href="/docs/lexique/clipper">
         <div>
           <strong>Clipper</strong>
-          <p>Une chaîne qui crée des clips à partir d’un stream, parfois officielle, parfois fan.</p>
+          <p>Une chaîne qui crée des clips à partir d'un stream, parfois officielle, parfois fan.</p>
         </div>
       </a>
       <a class="lexicon-card" href="/docs/lexique/clipping">
         <div>
           <strong>Clipping</strong>
-          <p>Créer des vidéos à partir d’extraits d’un stream pour immortaliser les moments marquants.</p>
+          <p>Créer des vidéos à partir d'extraits d'un stream pour immortaliser les moments marquants.</p>
         </div>
       </a>
       <a class="lexicon-card" href="/docs/lexique/collab">
@@ -158,13 +158,13 @@ slug: /lexique
       <a class="lexicon-card" href="/docs/lexique/diffusion-en-direct">
         <div>
           <strong>Diffusion en direct</strong>
-          <p>Une diffusion en direct est un programme retransmis en temps réel, permettant aux spectateurs d’interagir instantanément via le chat et autres réactions.</p>
+          <p>Une diffusion en direct est un programme retransmis en temps réel, permettant aux spectateurs d'interagir instantanément via le chat et autres réactions.</p>
         </div>
       </a>
       <a class="lexicon-card" href="/docs/lexique/doxxing">
         <div>
           <strong>Doxxing</strong>
-          <p>Révéler l’identité réelle d’un talent : acte condamné mettant fin à l’anonymat.</p>
+          <p>Révéler l'identité réelle d'un talent : acte condamné mettant fin à l'anonymat.</p>
         </div>
       </a>
       <a class="lexicon-card" href="/docs/lexique/dullahan">
@@ -176,7 +176,7 @@ slug: /lexique
       <a class="lexicon-card" href="/docs/lexique/debut-stream">
         <div>
           <strong>Début (stream)</strong>
-          <p>Le début (debut stream) est le premier live officiel d’un VTuber, où il présente son avatar, son personnage et lance officiellement sa carrière.</p>
+          <p>Le début (debut stream) est le premier live officiel d'un VTuber, où il présente son avatar, son personnage et lance officiellement sa carrière.</p>
         </div>
       </a>
     </div>
@@ -210,7 +210,7 @@ slug: /lexique
       <a class="lexicon-card" href="/docs/lexique/fan-name">
         <div>
           <strong>Fan name</strong>
-          <p>Surnom collectif attribué aux fans d’un VTuber.</p>
+          <p>Surnom collectif attribué aux fans d'un VTuber.</p>
         </div>
       </a>
       <a class="lexicon-card" href="/docs/lexique/fanart">
@@ -222,13 +222,13 @@ slug: /lexique
       <a class="lexicon-card" href="/docs/lexique/fandom">
         <div>
           <strong>Fandom</strong>
-          <p>Le fandom est la communauté de fans d’un VTuber, rassemblée autour de plateformes et créant memes, clips et ressources partagées.</p>
+          <p>Le fandom est la communauté de fans d'un VTuber, rassemblée autour de plateformes et créant memes, clips et ressources partagées.</p>
         </div>
       </a>
       <a class="lexicon-card" href="/docs/lexique/fleshtuber">
         <div>
           <strong>Fleshtuber</strong>
-          <p>Un streamer qui n’utilise pas de modèle virtuel.</p>
+          <p>Un streamer qui n'utilise pas de modèle virtuel.</p>
         </div>
       </a>
       <a class="lexicon-card" href="/docs/lexique/free-chat">
@@ -248,13 +248,13 @@ slug: /lexique
       <a class="lexicon-card" href="/docs/lexique/gachikoi">
         <div>
           <strong>Gachikoi</strong>
-          <p>Fan obsessionnel qui "tombe amoureux" d’un VTuber et dépasse souvent les limites.</p>
+          <p>Fan obsessionnel qui "tombe amoureux" d'un VTuber et dépasse souvent les limites.</p>
         </div>
       </a>
       <a class="lexicon-card" href="/docs/lexique/graduation">
         <div>
           <strong>Graduation</strong>
-          <p>Stream d’adieu ou départ d’une agence qui marque la retraite du talent.</p>
+          <p>Stream d'adieu ou départ d'une agence qui marque la retraite du talent.</p>
         </div>
       </a>
       <a class="lexicon-card" href="/docs/lexique/guerrilla">
@@ -324,7 +324,7 @@ slug: /lexique
       <a class="lexicon-card" href="/docs/lexique/kusa">
         <div>
           <strong>Kusa</strong>
-          <p>Exprime le rire, l’équivalent de "LOL" en japonais.</p>
+          <p>Exprime le rire, l'équivalent de "LOL" en japonais.</p>
         </div>
       </a>
     </div>
@@ -350,7 +350,7 @@ slug: /lexique
       <a class="lexicon-card" href="/docs/lexique/lore">
         <div>
           <strong>Lore</strong>
-          <p>Les éléments fictionnels autour d’un VTuber.</p>
+          <p>Les éléments fictionnels autour d'un VTuber.</p>
         </div>
       </a>
     </div>
@@ -388,7 +388,7 @@ slug: /lexique
       <a class="lexicon-card" href="/docs/lexique/3d-model">
         <div>
           <strong>Modèle 3D</strong>
-          <p>Un modèle 3D est une version polygonale d’un avatar VTuber, créée dans un logiciel de modélisation pour permettre des mouvements complets et un rendu en profondeur.</p>
+          <p>Un modèle 3D est une version polygonale d'un avatar VTuber, créée dans un logiciel de modélisation pour permettre des mouvements complets et un rendu en profondeur.</p>
         </div>
       </a>
       <a class="lexicon-card" href="/docs/lexique/mute">
@@ -426,7 +426,7 @@ slug: /lexique
       <a class="lexicon-card" href="/docs/lexique/otsu">
         <div>
           <strong>Otsu</strong>
-          <p>"Otsukaresama" utilisé pour dire merci à la fin d’un stream.</p>
+          <p>"Otsukaresama" utilisé pour dire merci à la fin d'un stream.</p>
         </div>
       </a>
     </div>
@@ -472,7 +472,7 @@ slug: /lexique
       <a class="lexicon-card" href="/docs/lexique/rtx-model">
         <div>
           <strong>RTX model</strong>
-          <p>Cosplay d’un modèle VTuber en live-action, pour un rendu réaliste.</p>
+          <p>Cosplay d'un modèle VTuber en live-action, pour un rendu réaliste.</p>
         </div>
       </a>
       <a class="lexicon-card" href="/docs/lexique/raid">
@@ -484,7 +484,7 @@ slug: /lexique
       <a class="lexicon-card" href="/docs/lexique/re-debut">
         <div>
           <strong>Re-debut</strong>
-          <p>Nouvel arrival après un changement de modèle ou d’agence.</p>
+          <p>Nouvel arrival après un changement de modèle ou d'agence.</p>
         </div>
       </a>
       <a class="lexicon-card" href="/docs/lexique/redesign">
@@ -502,7 +502,7 @@ slug: /lexique
       <a class="lexicon-card" href="/docs/lexique/rigging">
         <div>
           <strong>Rigging (animation squelettique)</strong>
-          <p>Le rigging consiste à créer un squelette virtuel hiérarchisé sous un modèle pour en contrôler les mouvements et les déformations lors de l’animation.</p>
+          <p>Le rigging consiste à créer un squelette virtuel hiérarchisé sous un modèle pour en contrôler les mouvements et les déformations lors de l'animation.</p>
         </div>
       </a>
       <a class="lexicon-card" href="/docs/lexique/reincarnation">
@@ -522,7 +522,7 @@ slug: /lexique
       <a class="lexicon-card" href="/docs/lexique/seiso">
         <div>
           <strong>Seiso</strong>
-          <p>VTubers à l’image pure, sans vulgarité ni sujets salaces.</p>
+          <p>VTubers à l'image pure, sans vulgarité ni sujets salaces.</p>
         </div>
       </a>
       <a class="lexicon-card" href="/docs/lexique/stream-sniping">
@@ -534,13 +534,13 @@ slug: /lexique
       <a class="lexicon-card" href="/docs/lexique/subathon">
         <div>
           <strong>Subathon</strong>
-          <p>Stream marathon où chaque abonnement prolonge l’événement.</p>
+          <p>Stream marathon où chaque abonnement prolonge l'événement.</p>
         </div>
       </a>
       <a class="lexicon-card" href="/docs/lexique/super-chat">
         <div>
           <strong>Super Chat</strong>
-          <p>Super Chat est une fonction YouTube permettant d’envoyer des messages payants mis en avant dans le chat d’un live, souvent lus en priorité par le créateur.</p>
+          <p>Super Chat est une fonction YouTube permettant d'envoyer des messages payants mis en avant dans le chat d'un live, souvent lus en priorité par le créateur.</p>
         </div>
       </a>
     </div>
@@ -554,7 +554,7 @@ slug: /lexique
       <a class="lexicon-card" href="/docs/lexique/talent">
         <div>
           <strong>Talent</strong>
-          <p>La personne derrière l’avatar, considérée irremplaçable.</p>
+          <p>La personne derrière l'avatar, considérée irremplaçable.</p>
         </div>
       </a>
       <a class="lexicon-card" href="/docs/lexique/teetee">
@@ -586,7 +586,7 @@ slug: /lexique
       <a class="lexicon-card" href="/docs/lexique/univers-alternatif">
         <div>
           <strong>Univers alternatif (AU)</strong>
-          <p>Un univers alternatif (AU) est une version fictive ou modifiée d’un VTuber, utilisée pour explorer des variantes narratives ou conceptuelles de son personnage.</p>
+          <p>Un univers alternatif (AU) est une version fictive ou modifiée d'un VTuber, utilisée pour explorer des variantes narratives ou conceptuelles de son personnage.</p>
         </div>
       </a>
       <a class="lexicon-card" href="/docs/lexique/utaite">
@@ -624,13 +624,13 @@ slug: /lexique
       <a class="lexicon-card" href="/docs/lexique/vod">
         <div>
           <strong>VOD (vidéo à la demande)</strong>
-          <p>Une VOD est l’enregistrement d’un live ou d’une vidéo que les spectateurs peuvent revoir à tout moment après la diffusion.</p>
+          <p>Une VOD est l'enregistrement d'un live ou d'une vidéo que les spectateurs peuvent revoir à tout moment après la diffusion.</p>
         </div>
       </a>
       <a class="lexicon-card" href="/docs/lexique/vtuber">
         <div>
           <strong>VTuber</strong>
-          <p>Un VTuber est un créateur en ligne qui apparaît via un avatar numérique animé, mêlant streaming, narration et technologies d’animation en temps réel.</p>
+          <p>Un VTuber est un créateur en ligne qui apparaît via un avatar numérique animé, mêlant streaming, narration et technologies d'animation en temps réel.</p>
         </div>
       </a>
       <a class="lexicon-card" href="/docs/lexique/vup">

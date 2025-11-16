@@ -7,7 +7,7 @@ slug: /lexique/re-debut
 ---
 
 ## Définition
-Nouvel arrival après un changement de modèle ou d’agence.
+Nouvel arrival après un changement de modèle ou d'agence.
 
 ## Sources
 - https://streamlabs.com/content-hub/post/vtubing-custom-slang-beginners

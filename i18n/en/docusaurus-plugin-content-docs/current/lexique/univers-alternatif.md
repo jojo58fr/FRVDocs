@@ -6,7 +6,7 @@ slug: /lexique/univers-alternatif
 ---
 
 ## Definition
-An alternate universe (AU) is a fictional or modified version of a VTuber character’s story, used to tell new scenarios without altering the core narrative. Examples include pirate-themed AUs, historical AUs, or collaborative settings where characters swap roles.
+An alternate universe (AU) is a fictional or modified version of a VTuber character's story, used to tell new scenarios without altering the core narrative. Examples include pirate-themed AUs, historical AUs, or collaborative settings where characters swap roles.
 
 ## Why VTubers use AUs
 - They allow creators to experiment with new story arcs and crossovers.  

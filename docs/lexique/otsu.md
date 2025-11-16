@@ -7,7 +7,7 @@ slug: /lexique/otsu
 ---
 
 ## Définition
-"Otsukaresama" utilisé pour dire merci à la fin d’un stream.
+"Otsukaresama" utilisé pour dire merci à la fin d'un stream.
 
 ## Sources
 - https://streamlabs.com/content-hub/post/vtubing-custom-slang-beginners

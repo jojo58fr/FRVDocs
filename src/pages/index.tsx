@@ -35,7 +35,7 @@ const contentByLocale = {
     ],
     communityTitle: 'On co-écrit le savoir ensemble !',
     contributionText:
-      'Il suffit simplement de contribuer dans les channels Discord spécifiquement dédiés : chaque message peut ensuite être transformé en documentation via GitHub. Le staff FRVtubers s’engage à reprendre ces contributions bénévolement pour garder la doc à jour avec les derniers outils, astuces et tutoriels francophones autour du VTubing.',
+      'Il suffit simplement de contribuer dans les channels Discord spécifiquement dédiés : chaque message peut ensuite être transformé en documentation via GitHub. Le staff FRVtubers s\'engage à reprendre ces contributions bénévolement pour garder la doc à jour avec les derniers outils, astuces et tutoriels francophones autour du VTubing.',
     discordButton: 'Rejoindre le discord communautaire',
     openCollectiveButton: 'Soutenir le projet sur Open Collective',
   },

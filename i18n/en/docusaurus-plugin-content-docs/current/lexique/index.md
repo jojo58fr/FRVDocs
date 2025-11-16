@@ -169,7 +169,7 @@ slug: /lexique
       <a class="lexicon-card" href="/docs/lexique/doxxing">
         <div>
           <strong>Doxxing</strong>
-          <p>Revealing a talent’s real identity: a condemned act that breaks anonymity.</p>
+          <p>Revealing a talent's real identity: a condemned act that breaks anonymity.</p>
         </div>
       </a>
       <a class="lexicon-card" href="/docs/lexique/dullahan">
@@ -217,7 +217,7 @@ slug: /lexique
       <a class="lexicon-card" href="/docs/lexique/fan-name">
         <div>
           <strong>Fan Name</strong>
-          <p>The collective nickname given to a VTuber’s fanbase.</p>
+          <p>The collective nickname given to a VTuber's fanbase.</p>
         </div>
       </a>
       <a class="lexicon-card" href="/docs/lexique/fanart">
@@ -229,7 +229,7 @@ slug: /lexique
       <a class="lexicon-card" href="/docs/lexique/fandom">
         <div>
           <strong>Fandom</strong>
-          <p>The VTuber’s fan community, active across platforms producing memes, clips, and shared resources.</p>
+          <p>The VTuber's fan community, active across platforms producing memes, clips, and shared resources.</p>
         </div>
       </a>
       <a class="lexicon-card" href="/docs/lexique/fleshtuber">
@@ -262,7 +262,7 @@ slug: /lexique
       <a class="lexicon-card" href="/docs/lexique/graduation">
         <div>
           <strong>Graduation</strong>
-          <p>A farewell stream or agency departure marking the talent’s retirement.</p>
+          <p>A farewell stream or agency departure marking the talent's retirement.</p>
         </div>
       </a>
       <a class="lexicon-card" href="/docs/lexique/guerrilla">
@@ -316,7 +316,7 @@ slug: /lexique
       <a class="lexicon-card" href="/docs/lexique/kami-oshi">
         <div>
           <strong>Kami-oshi</strong>
-          <p>A fan’s absolute favorite talent — their top oshi.</p>
+          <p>A fan's absolute favorite talent — their top oshi.</p>
         </div>
       </a>
       <a class="lexicon-card" href="/docs/lexique/kirinuki">
@@ -349,7 +349,7 @@ slug: /lexique
       <a class="lexicon-card" href="/docs/lexique/live2d">
         <div>
           <strong>Live2D</strong>
-          <p>Live2D is a technology animating 2D illustrations through morphing, enabling natural movement while preserving the artwork’s style.</p>
+          <p>Live2D is a technology animating 2D illustrations through morphing, enabling natural movement while preserving the artwork's style.</p>
         </div>
       </a>
       <a class="lexicon-card" href="/docs/lexique/liver">
@@ -376,13 +376,13 @@ slug: /lexique
       <a class="lexicon-card" href="/docs/lexique/mama">
         <div>
           <strong>Mama</strong>
-          <p>The VTuber’s character designer/illustrator.</p>
+          <p>The VTuber's character designer/illustrator.</p>
         </div>
       </a>
       <a class="lexicon-card" href="/docs/lexique/member">
         <div>
           <strong>Member</strong>
-          <p>A viewer subscribed to a channel’s paid membership.</p>
+          <p>A viewer subscribed to a channel's paid membership.</p>
         </div>
       </a>
       <a class="lexicon-card" href="/docs/lexique/mengen">
@@ -466,7 +466,7 @@ slug: /lexique
       <a class="lexicon-card" href="/docs/lexique/past-life">
         <div>
           <strong>Past Life</strong>
-          <p>The talent’s previous identity before VTubing, usually a taboo topic.</p>
+          <p>The talent's previous identity before VTubing, usually a taboo topic.</p>
         </div>
       </a>
       <a class="lexicon-card" href="/docs/lexique/pre-debut">
@@ -505,7 +505,7 @@ slug: /lexique
       <a class="lexicon-card" href="/docs/lexique/redesign">
         <div>
           <strong>Redesign</strong>
-          <p>A permanent modification of a VTuber’s character design.</p>
+          <p>A permanent modification of a VTuber's character design.</p>
         </div>
       </a>
       <a class="lexicon-card" href="/docs/lexique/relay">

@@ -36,8 +36,8 @@ authors: [TakuDev]
 
 # 📝 Introduction
 
-La modération joue un rôle essentiel dans le bon fonctionnement d’une communauté en ligne.  
-Ce guide a pour objectif d’offrir une structure claire, cohérente et facilement applicable à toute équipe de modération, quel que soit le type de contenu ou de plateforme (streaming, communauté Discord, chat en direct, etc.).
+La modération joue un rôle essentiel dans le bon fonctionnement d'une communauté en ligne.  
+Ce guide a pour objectif d'offrir une structure claire, cohérente et facilement applicable à toute équipe de modération, quel que soit le type de contenu ou de plateforme (streaming, communauté Discord, chat en direct, etc.).
 
 Il regroupe :
 - la vision de la modération,
@@ -53,8 +53,8 @@ Il regroupe :
 
 
 ## 🎯 Vision
-La modération vise à maintenir un environnement accueillant, respectueux et sécurisé pour l’ensemble des membres.  
-Chaque utilisateur doit pouvoir participer sans crainte d’harcèlement, de critiques déplacées ou de comportements perturbateurs.
+La modération vise à maintenir un environnement accueillant, respectueux et sécurisé pour l'ensemble des membres.  
+Chaque utilisateur doit pouvoir participer sans crainte d'harcèlement, de critiques déplacées ou de comportements perturbateurs.
 
 La règle générale :
 **Toute atteinte à la convivialité ou au respect doit être traitée rapidement et clairement.**
@@ -73,37 +73,37 @@ Voici un exemple fait par Elvyraptor: https://docs.google.com/document/d/1QNbA_P
 
 # 👋 Accueil des Nouveaux Membres
 
-- Les modérateurs ne sont pas obligés d’accueillir chaque personne individuellement.
+- Les modérateurs ne sont pas obligés d'accueillir chaque personne individuellement.
 - Ils peuvent orienter vers les ressources principales :  
-  commandes d’information, liens vers les réseaux, règlement, etc.
-- L’objectif est de guider sans pression et de maintenir un climat détendu.
+  commandes d'information, liens vers les réseaux, règlement, etc.
+- L'objectif est de guider sans pression et de maintenir un climat détendu.
 
 # 🚫 Neutralité & Équité
 
 Aucun statut (abonné, donateur, VIP, membre long terme) ne justifie un traitement de faveur.  
-Les règles s’appliquent de la même manière à tous les membres afin de conserver un espace juste et sain.
+Les règles s'appliquent de la même manière à tous les membres afin de conserver un espace juste et sain.
 
 ---
 
 # 🛡️ Règles de Modération du Chat
 
-## 🔞 Rappel sur l’âge minimum des plateformes
+## 🔞 Rappel sur l'âge minimum des plateformes
 
-Il est important de rappeler que l’accès aux plateformes de réseaux sociaux et de streaming est soumis à des **règles strictes d’âge minimum**, fixées par les conditions d’utilisation officielles :
+Il est important de rappeler que l'accès aux plateformes de réseaux sociaux et de streaming est soumis à des **règles strictes d'âge minimum**, fixées par les conditions d'utilisation officielles :
 
 ### Âges minimums des principales plateformes
 - **YouTube** : 13 ans minimum (avec restrictions pour YouTube Kids).  
-- **Twitch** : 13 ans minimum + nécessité d’un consentement parental pour les mineurs de 13 à 18 ans.  
+- **Twitch** : 13 ans minimum + nécessité d'un consentement parental pour les mineurs de 13 à 18 ans.  
 - **Discord** : 13 ans minimum (varie selon les pays, mais 13 dans la plupart des régions).  
 - **TikTok** : 13 ans minimum.  
 - **Twitter/X** : 13 ans minimum.  
 - **Instagram / Facebook** : 13 ans minimum.
 
 ### 🚫 Concernant les streams ou serveurs **classés +18**
-Même si une plateforme accepte les utilisateurs dès 13 ans, cela **ne permet pas** aux mineurs d’accéder à un contenu ou une communauté classée **+18**.
+Même si une plateforme accepte les utilisateurs dès 13 ans, cela **ne permet pas** aux mineurs d'accéder à un contenu ou une communauté classée **+18**.
 
 Dans un espace destiné aux adultes :
-- Toute déclaration d’âge indiquant qu’un membre est mineur → **Exclusion immédiate**.  
+- Toute déclaration d'âge indiquant qu'un membre est mineur → **Exclusion immédiate**.  
 - Même un doute raisonnable doit être traité sérieusement.  
 - Les modérateurs ne doivent jamais discuter de contenu inapproprié avec des mineurs, même en privé.
 
@@ -114,11 +114,11 @@ Elle doit entraîner une exclusion immédiate.
 **Sanction : bannissement définitif**
 
 ### 🎯 Pourquoi ce rappel ?
-- Pour **protéger l’équipe de modération et le créateur**, qui engagent leur responsabilité.  
-- Pour **protéger les mineurs** d’un environnement qui n’est pas adapté.  
+- Pour **protéger l'équipe de modération et le créateur**, qui engagent leur responsabilité.  
+- Pour **protéger les mineurs** d'un environnement qui n'est pas adapté.  
 - Pour **conserver un espace conforme aux règles des plateformes**.
 
-**➡️ Les modérateurs doivent systématiquement appliquer les règles d’exclusion si un mineur est détecté.**
+**➡️ Les modérateurs doivent systématiquement appliquer les règles d'exclusion si un mineur est détecté.**
 
 ---
 
@@ -137,7 +137,7 @@ Tout propos dénigrant, agressif ou visant à faire pression sur la communauté 
 
 Exemples :
 - critiques gratuites envers un membre
-- remarques désobligeantes envers l’activité en cours
+- remarques désobligeantes envers l'activité en cours
 - commentaires visant à créer une mauvaise ambiance
 
 **Sanction : suppression du message → avertissement → time-out → bannissement**
@@ -147,7 +147,7 @@ Exemples :
 ## 🎮 Spoil & Backseat
 Par défaut, aucune aide, spoiler ou instruction ne doit être imposée.
 
-**Exception :** uniquement si l’administrateur ou animateur en fait la demande.
+**Exception :** uniquement si l'administrateur ou animateur en fait la demande.
 
 **Sanction : suppression → time-out → escalade si récidive**
 
@@ -156,7 +156,7 @@ Par défaut, aucune aide, spoiler ou instruction ne doit être imposée.
 # 🧰 Outils de Modération
 
 ## ⏱️ Time-out / Suspensions
-Les systèmes de time-out permettent de calmer une situation sans aller jusqu’au bannissement.
+Les systèmes de time-out permettent de calmer une situation sans aller jusqu'au bannissement.
 
 Exemple de commande Twitch :
 ```
@@ -178,23 +178,23 @@ https://www.streamscheme.com/twitch-moderator-chat-commands/
 
 # 🎟️ Gestion des Interactions & Points de Canal (si applicable)
 
-En cas d’abus des fonctionnalités interactives :
+En cas d'abus des fonctionnalités interactives :
 1. Avertir
 2. Désactiver temporairement si nécessaire
 3. Appliquer les sanctions progressives
 
 Les remboursements ne doivent être effectués que :
 - en cas de bug ou erreur technique,
-- sur demande de l’administrateur.
+- sur demande de l'administrateur.
 
 ---
 
 # 💬 Modération sur Discord
 
-Les modérateurs ne sont pas obligés d’assurer une présence constante.  
+Les modérateurs ne sont pas obligés d'assurer une présence constante.  
 Ils interviennent surtout en cas de :
 
-- non-respect des limites d’âge,
+- non-respect des limites d'âge,
 - propos insultants,
 - sujets sensibles ou déplacés,
 - publicité non autorisée,
@@ -204,11 +204,11 @@ Ils interviennent surtout en cas de :
 Objectif :  
 **maintenir une communication claire, bienveillante et structurée.**
 
-# 👥 Organisation de l’Équipe
+# 👥 Organisation de l'Équipe
 
-Si un modérateur ne peut plus assurer son rôle, il doit en informer l’administrateur afin d'organiser la transition.
+Si un modérateur ne peut plus assurer son rôle, il doit en informer l'administrateur afin d'organiser la transition.
 
-Aucun reproche n’est fait : la modération demande du temps et se fait sur la base du volontariat.
+Aucun reproche n'est fait : la modération demande du temps et se fait sur la base du volontariat.
 
 ---
 

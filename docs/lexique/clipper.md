@@ -7,7 +7,7 @@ slug: /lexique/clipper
 ---
 
 ## Définition
-Une chaîne qui crée des clips à partir d’un stream, parfois officielle, parfois fan.
+Une chaîne qui crée des clips à partir d'un stream, parfois officielle, parfois fan.
 
 ## Sources
 - https://streamlabs.com/content-hub/post/vtubing-custom-slang-beginners

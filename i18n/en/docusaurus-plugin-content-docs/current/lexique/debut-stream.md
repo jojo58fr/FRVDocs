@@ -6,7 +6,7 @@ slug: /lexique/debut-stream
 ---
 
 ## Definition
-A debut stream is the VTuber’s inaugural broadcast: the avatar reveal, personality introduction, and community welcome. Debuts often feature countdowns, trailers, and special interactions.
+A debut stream is the VTuber's inaugural broadcast: the avatar reveal, personality introduction, and community welcome. Debuts often feature countdowns, trailers, and special interactions.
 
 ## Typical elements
 - **Trailer** : showcases the avatar, concept art, and tone.  

@@ -43,15 +43,21 @@ Il fonctionne sur Windows et reste très apprécié pour sa simplicité.
 ## Les fonctionnalités de VSeeFace
 
 - Suivi facial (via webcam) : yeux, regard, clignement, sourcils, bouche.
-- Suivi des mains : optionnel, via dispositif Leap Motion (Leap Motion Controller) pour contrôler les bras / mains / doigts de l’avatar. 
-- Support du protocole VMC Protocol (Virtual Motion Capture) : permet d’envoyer/recevoir/combiner des données de tracking depuis/vers d’autres applis (ex : iFacialMocap, FaceMotion3D, Waidayo, Virtual Motion Capture).
-- Capture avec fond transparent : via capture "jeu" (game capture) d’OBS Studio, interface Spout2 ou caméra virtuelle.
+- Suivi des mains : optionnel, via dispositif Leap Motion (Leap Motion Controller) pour contrôler les bras / mains / doigts de l'avatar. 
+- Support du protocole VMC Protocol (Virtual Motion Capture) : permet d'envoyer/recevoir/combiner des données de tracking depuis/vers d'autres applis (ex : iFacialMocap, FaceMotion3D, Waidayo, Virtual Motion Capture).
+- Capture avec fond transparent : via capture "jeu" (game capture) d'OBS Studio, interface Spout2 ou caméra virtuelle.
 
+## Comparaisons avec d'autres logiciels
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Running four face tracking programs (OpenSeeFaceDemo, Luppet, Wakaru, Hitogata) at once with the same camera input. 😊 <a href="https://t.co/ioO2pofpMx">pic.twitter.com/ioO2pofpMx</a></p>&mdash; Emiliana @ VSeeFace (@emiliana_vt) <a href="https://twitter.com/emiliana_vt/status/1275424412167221248?ref_src=twsrc%5Etfw">June 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 
 ## 🧑‍💻 Crédit aux développeurs
 
 Le logiciel est développé par [@Emiliana_vt](https://x.com/emiliana_vt) et [@Virtual_Deat](https://x.com/Virtual_Deat).
+
+Les mises à jour sont postés en épinglés sur le discord de Deat:  
+🔗 https://discord.com/invite/BjBgk7k
 
 Si vous désirez d'ancienne version du logiciel, c'est disponible sur [un dépôt GitHub](https://github.com/emilianavt/VSeeFaceReleases/releases/).
 

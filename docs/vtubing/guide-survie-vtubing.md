@@ -41,15 +41,15 @@ authors: [TakuDev, Marius]
 L'occupation de créateur de contenu en général, et de streamer en particulier, est une activité sociale.  
 On se retrouve à devoir utiliser les réseaux sociaux pour communiquer notre existence aux viewers et entre nous, mais surtout, une fois en stream, c'est la nature en direct et l'interaction avec le chat qui font tout le succès d'un contenu live par rapport à un contenu vidéo plus classique.
 
-Cela peut poser des challenges particuliers pour les VTubers, milieu où l’on retrouve beaucoup de personnes avec divers troubles sociaux ou juste particulièrement maladroites socialement, et dont le contenu est par essence un contenu de niche qui n'est pas toujours bien compris par le grand public.
+Cela peut poser des challenges particuliers pour les VTubers, milieu où l'on retrouve beaucoup de personnes avec divers troubles sociaux ou juste particulièrement maladroites socialement, et dont le contenu est par essence un contenu de niche qui n'est pas toujours bien compris par le grand public.
 
 Beaucoup sont attirés par la perspective d'avoir un avatar qui représente leurs passions et protège leur identité, et ignorent ou oublient que, parmi les nombreuses casquettes du créateur de contenu, on trouve aussi celles :
 
-- d’agent,
+- d'agent,
 - de modérateur en chef,
 - et surtout de community manager.
 
-Il ne vous aura pas échappé qu’il y a de nouveaux VTubers indépendants toutes les semaines, même dans la sphère francophone. Mais bien trop souvent, on revient les voir quelques mois plus tard pour se rendre compte qu'ils ont arrêté ou presque.
+Il ne vous aura pas échappé qu'il y a de nouveaux VTubers indépendants toutes les semaines, même dans la sphère francophone. Mais bien trop souvent, on revient les voir quelques mois plus tard pour se rendre compte qu'ils ont arrêté ou presque.
 
 C'est pourtant bien normal :
 
@@ -74,7 +74,7 @@ D'autres vous diront de cette même communauté qu'ils adorent les gens qui la c
 
 Le truc avec ces deux points de vue radicalement opposés, c'est qu'ils sont tous deux au moins en partie vrais, aussi paradoxal que ça puisse paraître.
 
-### Une « communauté » qui n’est pas monolithique
+### Une « communauté » qui n'est pas monolithique
 
 Il faut bien comprendre qu'il n'y a pas **une** communauté monolithique du VTubing francophone, mais plutôt tout un tas de groupes qui peuvent avoir plus ou moins de liens entre eux.
 
@@ -88,7 +88,7 @@ FRVtubers est une des plus grosses communautés de VTubing francophone sur Disco
 
 ## Trends, traditions et libre arbitre
 
-Quand vous avez commencé à apprendre de la communauté, vous avez peut‑être entendu parler de beaucoup de termes spécialisés, mais surtout d’événements comme des « débuts », « redébuts », « graduations »…
+Quand vous avez commencé à apprendre de la communauté, vous avez peut‑être entendu parler de beaucoup de termes spécialisés, mais surtout d'événements comme des « débuts », « redébuts », « graduations »…
 
 Sachez que ces événements ont plus une valeur **traditionnelle** que pratique : n'en faites que si vous en avez réellement envie.
 
@@ -101,7 +101,7 @@ Votre flux sur les réseaux sociaux se retrouvera saturé principalement par :
 Ces trends, très littéralement des effets de mode, sont à double tranchant :
 
 - d'un côté, elles peuvent vous aider à vous faire connaître (d'autant que ça veut dire plus de posts de votre part, ce qui est souvent une bonne idée) et sont souvent inoffensives ;
-- d'un autre côté, certaines trends peuvent représenter un danger pour la vie privée, être une manière élaborée de collecter vos données, impliquer de l’IA, et bien sûr, participer à un effet de mode veut par essence dire que vous vous fondez dans la masse. C'est pourquoi certains bloquent certaines trends à vue.
+- d'un autre côté, certaines trends peuvent représenter un danger pour la vie privée, être une manière élaborée de collecter vos données, impliquer de l'IA, et bien sûr, participer à un effet de mode veut par essence dire que vous vous fondez dans la masse. C'est pourquoi certains bloquent certaines trends à vue.
 
 Quand vous voulez déterminer si vous voulez participer à quelque chose ou non, utilisez **votre esprit critique**, pas votre instinct grégaire.
 
@@ -115,7 +115,7 @@ Mais nous avons aussi une deuxième raison : ne pas laisser les aspirants VTuber
 
 En effet, si quelques VTubers ont choisi d'utiliser des assets créés par une IA, parfois à leur insu, les VTubers dépendent très fortement des artistes pour leurs assets, et ces artistes représentent une grande partie de la communauté.
 
-Ainsi, de nombreux VTubers et artistes de la communauté dont moi (Marius Munier), par exemple, vont rejeter massivement toute personne utilisant l'IA, d'autant que les problèmes posés sont loin de s'arrêter à la propriété intellectuelle des artistes. L’IA générative pose également des problèmes :
+Ainsi, de nombreux VTubers et artistes de la communauté dont moi (Marius Munier), par exemple, vont rejeter massivement toute personne utilisant l'IA, d'autant que les problèmes posés sont loin de s'arrêter à la propriété intellectuelle des artistes. L'IA générative pose également des problèmes :
 
 - de consommation d'énergie ;
 - de désinformation ;
@@ -187,7 +187,7 @@ Si vous voulez les accueillir dans vos espaces, il vous faudra :
 Si vous laissez les personnes peu recommandables perdurer dans votre communauté, vous en réduirez la qualité, causant :
 
 - le départ de personnes innocentes qui ne s'y sentiront plus aussi bien ;
-- l’envoi d’un signal aux personnes problématiques qu'elles sont les bienvenues.
+- l'envoi d'un signal aux personnes problématiques qu'elles sont les bienvenues.
 
 Donc :
 
@@ -204,7 +204,7 @@ Pour faire simple, n'accordez **jamais plus de confiance qu'absolument nécessai
 Quelques principes :
 
 - Si vous donnez des pouvoirs de modération à quelqu'un, vérifiez que cette personne ne reçoive pas le pouvoir de tout casser par elle-même.  
-  Il peut donc être intéressant d'avoir des **modérateurs spécialisés**, et d’augmenter leur rayon d'action au fur et à mesure qu'ils gagnent votre confiance.
+  Il peut donc être intéressant d'avoir des **modérateurs spécialisés**, et d'augmenter leur rayon d'action au fur et à mesure qu'ils gagnent votre confiance.
 - Quand on vous demande des informations personnelles, considérez qu'elles peuvent fuiter avant d'accepter de les donner.
 - Quand vous discutez avec des gens sur internet, partez du principe que même une personne qui semble sympathique peut avoir un côté bien plus sombre.
 

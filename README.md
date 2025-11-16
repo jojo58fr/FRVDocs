@@ -46,7 +46,7 @@ FRVDocs fédère les meilleures pratiques et découvertes francophones liées à
 
 - Une documentation vivante qui couvre outils, workflow, modération et contenu.
 - Un processus collaboratif : la communauté propose, le staff organise, les contributeurs sont reconnus.
-- Un site ouvert à tous ceux qui veulent apprendre, partager et améliorer l’expérience VTubing.
+- Un site ouvert à tous ceux qui veulent apprendre, partager et améliorer l'expérience VTubing.
 
 Pour toute suggestion de contact ou question précise, consulte les correspondances sur Discord ou ouvre une discussion GitHub.
 

@@ -28,7 +28,7 @@ Le dépôt officiel du projet se trouve ici :
 👉 **https://github.com/jojo58fr/FRVDocs**
 
 ### ✔ Modifier un fichier existant
-- Ouvre la page d’un fichier dans le dépôt  
+- Ouvre la page d'un fichier dans le dépôt  
 - Clique sur **Edit (crayon)**  
 - Apporte tes modifications  
 - Soumets une **Pull Request**
@@ -59,15 +59,15 @@ Le Discord est un espace parfait pour contribuer sans forcément toucher à GitH
 
 Tu peux :
 - proposer des sujets à documenter,
-- discuter avec d’autres membres pour co-créer du contenu,
+- discuter avec d'autres membres pour co-créer du contenu,
 - partager des ressources ou des idées,
 - signaler des oublis ou erreurs,
 - rédiger des brouillons qui seront ensuite intégrés à FRVDocs.
 
-C’est aussi l’endroit idéal pour :
+C'est aussi l'endroit idéal pour :
 - poser des questions,
 - apprendre à utiliser GitHub si nécessaire,
-- suivre l’évolution du projet.
+- suivre l'évolution du projet.
 
 ---
 

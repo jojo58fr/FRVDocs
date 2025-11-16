@@ -1,7 +1,7 @@
 ---
 title: Idol
 sidebar_label: Idol
-description: L’influence des idols japonais sur le VTubing.
+description: L'influence des idols japonais sur le VTubing.
 slug: /lexique/idol
 ---
 

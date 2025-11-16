@@ -7,7 +7,7 @@ slug: /lexique/redesign
 ---
 
 ## Definition
-A permanent overhaul of the VTuber’s appearance.
+A permanent overhaul of the VTuber's appearance.
 
 ## Sources
 - https://streamlabs.com/content-hub/post/vtubing-custom-slang-beginners
