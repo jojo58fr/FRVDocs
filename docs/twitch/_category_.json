@@ -1,0 +1,8 @@
+{
+  "label": "Twitch",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Toutes les informations que tu as besoin concernant Twitch"
+  }
+}

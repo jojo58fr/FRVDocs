@@ -61,8 +61,13 @@ La règle générale :
 
 ## ⚠️ Échelle des sanctions
 Pour assurer cohérence et équité, les sanctions suivent une progression :
-
 **Avertissement → Time-out court → Time-out long → Suspension temporaire → Bannissement définitif**
+
+## 💡 Astuce pour une gestion efficace
+
+La suite de ce document va vous indiquer des conseils globaux pour gérer votre modération, mais le top à faire est de proposer **vous-même** votre propre **charte de modération** afin d'accueillir plus facilement les nouveaux modérateurs ou si des questions subsistent sur comment traiter un cas de figure dans la modération.
+
+Voici un exemple fait par Elvyraptor: https://docs.google.com/document/d/1QNbA_P4TOY8ntULjV9Q0oLIt89f4c_ZVuXbWugnIkIY/edit?usp=sharing
 
 ---
 
@@ -73,8 +78,6 @@ Pour assurer cohérence et équité, les sanctions suivent une progression :
   commandes d’information, liens vers les réseaux, règlement, etc.
 - L’objectif est de guider sans pression et de maintenir un climat détendu.
 
----
-
 # 🚫 Neutralité & Équité
 
 Aucun statut (abonné, donateur, VIP, membre long terme) ne justifie un traitement de faveur.  
@@ -83,14 +86,6 @@ Les règles s’appliquent de la même manière à tous les membres afin de cons
 ---
 
 # 🛡️ Règles de Modération du Chat
-
-## 👶 Présence de Mineurs (si contenu +18)
-Dans les communautés réservées aux adultes, la présence de mineurs constitue une violation grave.  
-Elle doit entraîner une exclusion immédiate.
-
-**Sanction : bannissement définitif**
-
----
 
 ## 🔞 Rappel sur l’âge minimum des plateformes
 
@@ -111,6 +106,12 @@ Dans un espace destiné aux adultes :
 - Toute déclaration d’âge indiquant qu’un membre est mineur → **Exclusion immédiate**.  
 - Même un doute raisonnable doit être traité sérieusement.  
 - Les modérateurs ne doivent jamais discuter de contenu inapproprié avec des mineurs, même en privé.
+
+#### Et si une présence de mineur est suspecté ?
+Dans les communautés réservées aux adultes, la présence de mineurs constitue une violation grave du code pénal.  
+Elle doit entraîner une exclusion immédiate.
+
+**Sanction : bannissement définitif**
 
 ### 🎯 Pourquoi ce rappel ?
 - Pour **protéger l’équipe de modération et le créateur**, qui engagent leur responsabilité.  
@@ -203,8 +204,6 @@ Ils interviennent surtout en cas de :
 Objectif :  
 **maintenir une communication claire, bienveillante et structurée.**
 
----
-
 # 👥 Organisation de l’Équipe
 
 Si un modérateur ne peut plus assurer son rôle, il doit en informer l’administrateur afin d'organiser la transition.
@@ -213,13 +212,13 @@ Aucun reproche n’est fait : la modération demande du temps et se fait sur la 
 
 ---
 
-# 📚 Sources & Bibliographie
+## 📚 Sources & Bibliographie
 
-## Modération & Communautés
+### Modération & Communautés
 - **HelloAudio** – *6 Steps for Top-Tier Online Community Moderation*  
   https://helloaudio.fm/online-community-moderation/
 
-## Streaming & Modération
+### Streaming & Modération
 - **VTuberSensei** – *Dealing with Live Chat: Moderation, Bots, and Creating a Safe Environment*  
   https://vtubersensei.wordpress.com/2024/10/30/dealing-with-live-chat-moderation-bots-and-creating-a-safe-environment/
 
@@ -229,15 +228,11 @@ Aucun reproche n’est fait : la modération demande du temps et se fait sur la 
 - **Medium** – *Bans and Bubbles: Analysis of Moderation in Live Chat*  
   https://medium.com/@swethaneha.kuttysivakumar/bans-and-bubbles-analysis-of-moderation-in-vtuber-streams-937f581e4159
 
-## Référentiels de Conduite
-- **VTuber Wiki – Code of Conduct**  
-  https://virtualyoutuber.fandom.com/wiki/VTuber_Wiki:Code_of_Conduct
-
-## Recherche & Études
+### Recherche & Études
 - **arXiv** – *Moderation Challenges in Voice-based Online Communities*  
   https://arxiv.org/abs/2101.05258
 
-## Ressources vidéo
+### Ressources vidéo
 - **YouTube** - *Guide de modération : bonnes pratiques concrètes*  
   https://youtu.be/gA5IlmCGI9k
 
