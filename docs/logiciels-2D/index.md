@@ -1,9 +1,9 @@
 ---
-sidebar_position: 4
+sidebar_position: 3
 title:  
-description: Un hub clair pour choisir quel logiciel de VTubing 3D explorer et pour accéder directement aux fiches VSeeFace, Warudo et VNyan.
-slug: /logiciels-vtubing-3d
-sidebar_label: Logiciels de VTubing 3D
+description: Un hub clair pour choisir quel logiciel de VTubing 2D explorer et pour accéder directement aux fiches VSeeFace, Warudo et VNyan.
+slug: /logiciels-vtubing-2d
+sidebar_label: Logiciels de VTubing 2D
 ---
 
 <style>{`
@@ -183,18 +183,19 @@ sidebar_label: Logiciels de VTubing 3D
 
 <div class="logiciels-3d-shell">
   <section class="logiciels-3d-hero">
-    <p class="logiciels-3d-hero-eyebrow">Logiciels de VTubing 3D</p>
-    <h1>Vous voulez vous lancer dans le VTubing avec un avatar 3D ?</h1>
+    <p class="logiciels-3d-hero-eyebrow">Logiciels de VTubing 2D</p>
+    <h1>Vous voulez vous lancer dans le VTubing avec un avatar 2D ?</h1>
     <p class="logiciels-3d-hero-desc">
-      Cette page rassemble les outils de VTubing 3D les plus connues. Clique sur une fiche pour être redirigé vers les différents guides, astuces et explications pour commencer à utiliser les outils !
+      Cette page rassemble les outils de VTubing 2D les plus connues. Clique sur une fiche pour être redirigé vers les différents guides, astuces et explications pour commencer à utiliser les outils !
     </p>
     <div class="logiciels-hero-tags">
-      <span>Modèle 3D</span>
-      <span>VRM</span>
-      <span> .VSFAvatar / .Warudo</span>
+      <span>Modèle 2D</span>
+      <span>Live 2D</span>
+      <span>Rigging</span>
+      <span>VTube Studio</span>
     </div>
   </section>
-  <div class="logiciels-3d-grid">
+  <!-- <div class="logiciels-3d-grid">
     <article class="logiciels-card">
       <a class="logiciels-card-link" href="/docs/category/vseeface">
         <div>
@@ -242,5 +243,5 @@ sidebar_label: Logiciels de VTubing 3D
         <a class="logiciels-card-explore" href="/docs/category/warudo">Explorer la catégorie</a>
       </div>
     </article>
-  </div>
+  </div> -->
 </div>

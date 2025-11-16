@@ -10,4 +10,3 @@ slug: /lexique/relay
 Série de streams sur un thème, chacun passant la main au suivant.
 
 ## Sources
-- https://streamlabs.com/content-hub/post/vtubing-custom-slang-beginners

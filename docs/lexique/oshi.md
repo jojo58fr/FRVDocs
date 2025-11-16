@@ -10,4 +10,3 @@ slug: /lexique/oshi
 Ton VTuber préféré.
 
 ## Sources
-- https://streamlabs.com/content-hub/post/vtubing-custom-slang-beginners

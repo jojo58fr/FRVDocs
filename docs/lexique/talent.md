@@ -10,4 +10,3 @@ slug: /lexique/talent
 La personne derrière l'avatar, considérée irremplaçable.
 
 ## Sources
-- https://streamlabs.com/content-hub/post/vtubing-custom-slang-beginners

@@ -10,4 +10,3 @@ slug: /lexique/subathon
 Stream marathon où chaque abonnement prolonge l'événement.
 
 ## Sources
-- https://streamlabs.com/content-hub/post/vtubing-custom-slang-beginners

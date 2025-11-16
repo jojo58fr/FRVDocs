@@ -10,4 +10,3 @@ slug: /lexique/kojin-zei
 VTuber indépendant, souvent freelance ou dans un groupe indie.
 
 ## Sources
-- https://streamlabs.com/content-hub/post/vtubing-custom-slang-beginners

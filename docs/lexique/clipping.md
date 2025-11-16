@@ -10,4 +10,3 @@ slug: /lexique/clipping
 Créer des vidéos à partir d'extraits d'un stream pour immortaliser les moments marquants.
 
 ## Sources
-- https://streamlabs.com/content-hub/post/vtubing-custom-slang-beginners

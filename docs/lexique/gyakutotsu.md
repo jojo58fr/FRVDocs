@@ -10,4 +10,3 @@ slug: /lexique/gyakutotsu
 Généralement un stream anniversaire où le VTuber appelle des amis (reverse call-in).
 
 ## Sources
-- https://streamlabs.com/content-hub/post/vtubing-custom-slang-beginners

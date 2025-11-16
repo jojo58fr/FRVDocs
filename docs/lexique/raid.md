@@ -10,4 +10,3 @@ slug: /lexique/raid
 Transfert automatique de spectateurs vers un autre stream.
 
 ## Sources
-- https://streamlabs.com/content-hub/post/vtubing-custom-slang-beginners

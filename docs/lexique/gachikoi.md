@@ -10,4 +10,3 @@ slug: /lexique/gachikoi
 Fan obsessionnel qui "tombe amoureux" d'un VTuber et dépasse souvent les limites.
 
 ## Sources
-- https://streamlabs.com/content-hub/post/vtubing-custom-slang-beginners

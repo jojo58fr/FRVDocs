@@ -10,4 +10,3 @@ slug: /lexique/mengen
 Contenu réservé aux membres (member-exclusive).
 
 ## Sources
-- https://streamlabs.com/content-hub/post/vtubing-custom-slang-beginners

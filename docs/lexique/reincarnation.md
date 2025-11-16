@@ -10,4 +10,3 @@ slug: /lexique/reincarnation
 VTuber retiré revenant sous une nouvelle identité.
 
 ## Sources
-- https://streamlabs.com/content-hub/post/vtubing-custom-slang-beginners

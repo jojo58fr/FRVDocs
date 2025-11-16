@@ -10,4 +10,3 @@ slug: /lexique/totsumachi
 Stream «凸待ち» où le VTuber attend des appels entrants.
 
 ## Sources
-- https://streamlabs.com/content-hub/post/vtubing-custom-slang-beginners

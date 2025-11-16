@@ -10,4 +10,3 @@ slug: /lexique/fleshtuber
 Un streamer qui n'utilise pas de modèle virtuel.
 
 ## Sources
-- https://streamlabs.com/content-hub/post/vtubing-custom-slang-beginners

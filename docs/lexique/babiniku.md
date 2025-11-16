@@ -10,4 +10,3 @@ slug: /lexique/babiniku
 Un VTuber masculin qui incarne un personnage féminin en assumant son genre réel.
 
 ## Sources
-- https://streamlabs.com/content-hub/post/vtubing-custom-slang-beginners

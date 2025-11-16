@@ -10,4 +10,3 @@ slug: /lexique/delivery
 Traduction de 配信 : le terme japonais pour "stream" ou "diffusion."
 
 ## Sources
-- https://streamlabs.com/content-hub/post/vtubing-custom-slang-beginners

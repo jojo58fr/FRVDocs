@@ -10,4 +10,3 @@ slug: /lexique/kami-oshi
 Super favori du fan, le coup de cœur ultime.
 
 ## Sources
-- https://streamlabs.com/content-hub/post/vtubing-custom-slang-beginners

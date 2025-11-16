@@ -10,4 +10,3 @@ slug: /lexique/re-debut
 Nouvel arrival après un changement de modèle ou d'agence.
 
 ## Sources
-- https://streamlabs.com/content-hub/post/vtubing-custom-slang-beginners

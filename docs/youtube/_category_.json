@@ -1,0 +1,8 @@
+{
+  "label": "Youtube",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "description": "Toutes les informations que tu as besoin concernant Youtube"
+  }
+}

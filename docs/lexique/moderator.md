@@ -10,4 +10,3 @@ slug: /lexique/moderator
 Personne chargée de modérer le chat, parfois un autre VTuber.
 
 ## Sources
-- https://streamlabs.com/content-hub/post/vtubing-custom-slang-beginners

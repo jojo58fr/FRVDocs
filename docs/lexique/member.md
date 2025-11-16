@@ -10,4 +10,3 @@ slug: /lexique/member
 Spectateur payant à un abonnement de chaîne.
 
 ## Sources
-- https://streamlabs.com/content-hub/post/vtubing-custom-slang-beginners

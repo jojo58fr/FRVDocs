@@ -10,4 +10,3 @@ slug: /lexique/pre-debut
 Design révélé avant un début officiel.
 
 ## Sources
-- https://streamlabs.com/content-hub/post/vtubing-custom-slang-beginners

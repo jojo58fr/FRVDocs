@@ -10,4 +10,3 @@ slug: /lexique/off-collab
 Collaboration en personne entre VTubers.
 
 ## Sources
-- https://streamlabs.com/content-hub/post/vtubing-custom-slang-beginners

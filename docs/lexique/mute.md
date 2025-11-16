@@ -10,4 +10,3 @@ slug: /lexique/mute
 VTuber qui ne parle pas pendant ses streams.
 
 ## Sources
-- https://streamlabs.com/content-hub/post/vtubing-custom-slang-beginners

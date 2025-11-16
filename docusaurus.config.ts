@@ -77,6 +77,21 @@ const config: Config = {
   ],
 
   themeConfig: {
+    algolia: {
+      // The application ID provided by Algolia
+      appId: '701KVB484N',
+
+      // Public API key: it is safe to commit it
+      apiKey: '687284ad26530dc524291b6b8fca1d5f',
+
+      indexName: 'FRVDocs Crawler',
+
+      // Optional: see doc section below
+      contextualSearch: true,
+
+      //... other Algolia params
+    },
+
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     colorMode: {

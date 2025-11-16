@@ -10,4 +10,3 @@ slug: /lexique/unarchived
 Stream sans VOD sauvegardée, souvent pour des raisons de droits.
 
 ## Sources
-- https://streamlabs.com/content-hub/post/vtubing-custom-slang-beginners

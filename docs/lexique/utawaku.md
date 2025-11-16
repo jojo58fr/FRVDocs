@@ -10,4 +10,3 @@ slug: /lexique/utawaku
 Stream de chant ou de karaoké (歌枠).
 
 ## Sources
-- https://streamlabs.com/content-hub/post/vtubing-custom-slang-beginners

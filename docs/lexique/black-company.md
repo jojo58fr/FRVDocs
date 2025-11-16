@@ -10,4 +10,3 @@ slug: /lexique/black-company
 Une agence exploitante qui maltraite ses talents (non-paiement, doxxing, harcèlement).
 
 ## Sources
-- https://streamlabs.com/content-hub/post/vtubing-custom-slang-beginners

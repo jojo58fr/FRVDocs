@@ -10,4 +10,3 @@ slug: /lexique/redesign
 Modification permanente du design du VTuber.
 
 ## Sources
-- https://streamlabs.com/content-hub/post/vtubing-custom-slang-beginners

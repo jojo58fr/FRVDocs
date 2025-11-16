@@ -10,4 +10,3 @@ slug: /lexique/utattemita
 Cover song (歌ってみた) ponctuant la scène utaite.
 
 ## Sources
-- https://streamlabs.com/content-hub/post/vtubing-custom-slang-beginners

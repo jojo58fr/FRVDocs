@@ -10,4 +10,3 @@ slug: /lexique/anti
 Un troll ou un hater qui critique ouvertement un VTuber.
 
 ## Sources
-- https://streamlabs.com/content-hub/post/vtubing-custom-slang-beginners

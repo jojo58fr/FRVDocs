@@ -10,4 +10,3 @@ slug: /lexique/teetee
 Terme affectueux décrivant une relation chérie entre deux VTubers.
 
 ## Sources
-- https://streamlabs.com/content-hub/post/vtubing-custom-slang-beginners

@@ -92,15 +92,15 @@ Les règles s'appliquent de la même manière à tous les membres afin de conser
 Il est important de rappeler que l'accès aux plateformes de réseaux sociaux et de streaming est soumis à des **règles strictes d'âge minimum**, fixées par les conditions d'utilisation officielles :
 
 ### Âges minimums des principales plateformes
-- **YouTube** : 13 ans minimum (avec restrictions pour YouTube Kids).  
-- **Twitch** : 13 ans minimum + nécessité d'un consentement parental pour les mineurs de 13 à 18 ans.  
-- **Discord** : 13 ans minimum (varie selon les pays, mais 13 dans la plupart des régions).  
-- **TikTok** : 13 ans minimum.  
-- **Twitter/X** : 13 ans minimum.  
-- **Instagram / Facebook** : 13 ans minimum.
+- **YouTube** : 15 ans minimum (avec restrictions pour YouTube Kids).  
+- **Twitch** : 15 ans minimum + nécessité d'un consentement parental pour les mineurs de 15 à 18 ans.  
+- **Discord** : 15 ans minimum.  
+- **TikTok** : 15 ans minimum.  
+- **Twitter/X** : 15 ans minimum.  
+- **Instagram / Facebook** : 15 ans minimum.
 
 ### 🚫 Concernant les streams ou serveurs **classés +18**
-Même si une plateforme accepte les utilisateurs dès 13 ans, cela **ne permet pas** aux mineurs d'accéder à un contenu ou une communauté classée **+18**.
+Même si une plateforme accepte les utilisateurs dès 15 ans, cela **ne permet pas** aux mineurs d'accéder à un contenu ou une communauté classée **+18**.
 
 Dans un espace destiné aux adultes :
 - Toute déclaration d'âge indiquant qu'un membre est mineur → **Exclusion immédiate**.  
@@ -176,7 +176,7 @@ https://www.streamscheme.com/twitch-moderator-chat-commands/
 
 ---
 
-# 🎟️ Gestion des Interactions & Points de Canal (si applicable)
+# 🎟️ Gestion des Interactions & Points de chaines (si applicable)
 
 En cas d'abus des fonctionnalités interactives :
 1. Avertir

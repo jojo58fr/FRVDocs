@@ -10,4 +10,3 @@ slug: /lexique/enjou
 Controverse massive en ligne, équivalent japonais de "getting flamed."
 
 ## Sources
-- https://streamlabs.com/content-hub/post/vtubing-custom-slang-beginners

@@ -1,4 +1,5 @@
 ---
+sidebar_position: 7
 title: Lexique VTubing
 sidebar_label: Lexique alphabétique
 description: Une table des matières alphabétique pour tous les termes VTubing documentés.
@@ -459,6 +460,12 @@ slug: /lexique
         <div>
           <strong>Pre-debut</strong>
           <p>Design révélé avant un début officiel.</p>
+        </div>
+      </a>
+      <a class="lexicon-card" href="/docs/lexique/puppeteering">
+        <div>
+          <strong>Puppeteering</strong>
+          <p>Le puppeteering consiste à manipuler un avatar pour obtenir un mouvement/expression précis.</p>
         </div>
       </a>
     </div>

@@ -10,4 +10,3 @@ slug: /lexique/guerrilla
 Unstream non annoncé, souvent spontané.
 
 ## Sources
-- https://streamlabs.com/content-hub/post/vtubing-custom-slang-beginners

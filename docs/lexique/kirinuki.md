@@ -10,4 +10,3 @@ slug: /lexique/kirinuki
 Terme japonais pour désigner un clip vidéo.
 
 ## Sources
-- https://streamlabs.com/content-hub/post/vtubing-custom-slang-beginners

@@ -10,4 +10,3 @@ slug: /lexique/akasupa
 Un don hautement valorisé sur YouTube, reconnaissable à son fond rouge (akai), autrement dit un superchat premium.
 
 ## Sources
-- https://streamlabs.com/content-hub/post/vtubing-custom-slang-beginners

@@ -1,4 +1,5 @@
 ---
+sidebar_position: 1
 title: C'est quoi VSeeFace ?
 description: Présentation de l'outil VSeeFace et de la manière dont nous documentons son usage.
 slug: /vseeface

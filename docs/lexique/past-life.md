@@ -10,4 +10,3 @@ slug: /lexique/past-life
 Identité du talent avant le VTubing, habituellement taboue.
 
 ## Sources
-- https://streamlabs.com/content-hub/post/vtubing-custom-slang-beginners

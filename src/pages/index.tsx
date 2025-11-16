@@ -94,7 +94,7 @@ function HomepageHeader() {
           <Link className="button button--primary button--lg" to="https://github.com/jojo58fr/FRVDocs">
             {localeContent.heroPrimary}
           </Link>
-          <Link className="button button--secondary button--lg" to="/blog">
+          <Link className="button button--secondary button--lg" to="/docs/intro">
             {localeContent.heroSecondary}
           </Link>
         </div>

@@ -10,4 +10,3 @@ slug: /lexique/liver
 Contraction japonaise de "livestreamer."
 
 ## Sources
-- https://streamlabs.com/content-hub/post/vtubing-custom-slang-beginners

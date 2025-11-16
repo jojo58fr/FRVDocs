@@ -10,4 +10,3 @@ slug: /lexique/endurance
 Défi de stream souvent orienté sur un objectif de souscriptions ou de durée.
 
 ## Sources
-- https://streamlabs.com/content-hub/post/vtubing-custom-slang-beginners

@@ -10,4 +10,3 @@ slug: /lexique/utaite
 Chanteur amateur qui publie des covers, souvent sur Niconico ou YouTube.
 
 ## Sources
-- https://streamlabs.com/content-hub/post/vtubing-custom-slang-beginners

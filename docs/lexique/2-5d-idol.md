@@ -10,4 +10,3 @@ slug: /lexique/2-5d-idol
 Idol VTuber qui se produit à la fois dans des espaces virtuels et en live-action, parfois sans révéler son visage.
 
 ## Sources
-- https://streamlabs.com/content-hub/post/vtubing-custom-slang-beginners

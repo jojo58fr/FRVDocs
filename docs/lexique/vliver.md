@@ -10,4 +10,3 @@ slug: /lexique/vliver
 Live-streamer virtuel sur IRIAM (Japon).
 
 ## Sources
-- https://streamlabs.com/content-hub/post/vtubing-custom-slang-beginners
