@@ -6,6 +6,33 @@ slug: /installation-linux-vseeface
 sidebar_label: Installation de VSeeFace sous Linux ou Mac (via Wine)
 ---
 
+### Version vidéo
+**(non-officiel à FRVDocs, vidéo anglaise en lien avec le sujet)**
+<div style={{ width: '100%', maxWidth: '100%', marginTop: '1rem', marginBottom: '1rem' }}>
+  <div
+    style={{
+      position: 'relative',
+      paddingBottom: '56.25%',
+      height: 0,
+      overflow: 'hidden',
+    }}>
+    <iframe
+      src="https://www.youtube.com/embed/xEw5H7IZ89Q"
+      title="Communiquer correctement"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen
+      style={{
+        border: 0,
+        position: 'absolute',
+        top: 0,
+        left: 0,
+        width: '100%',
+        height: '100%',
+      }}>
+    </iframe>
+  </div>
+</div>
+
 Ce document fournit une procédure claire pour installer et utiliser **VSeeFace** sous Linux voir peux-être Mac, ainsi que des solutions de contournement lorsque certaines fonctionnalités (comme la webcam) ne fonctionnent pas correctement.
 
 ---

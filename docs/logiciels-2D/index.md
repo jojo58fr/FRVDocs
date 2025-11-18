@@ -20,7 +20,28 @@ sidebar_label: Logiciels de VTubing 2D
   border-radius: 1.25rem;
   padding: 2.25rem;
   box-shadow: 0 20px 45px rgba(15, 23, 42, 0.55);
+
+  position: relative;
 }
+
+.logiciels-3d-hero::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-repeat: no-repeat;
+  background-size: 500px 100%;
+  background-position: right center;
+  opacity: 0.07;
+  pointer-events: none;
+  z-index: 0;
+  background-image: url('/img/kokori_bg_2.png');
+  transition: all 0.5s;
+}
+
+.logiciels-3d-hero:hover::after {
+  opacity: 0.15;
+}
+
 .logiciels-3d-hero-eyebrow {
   text-transform: uppercase;
   letter-spacing: 0.3em;
@@ -59,6 +80,7 @@ sidebar_label: Logiciels de VTubing 2D
   gap: 1rem;
 }
 .logiciels-card {
+  position: relative;
   display: flex;
   flex-direction: column;
   min-height: 220px;
@@ -68,11 +90,41 @@ sidebar_label: Logiciels de VTubing 2D
   border: 1px solid rgba(148, 163, 184, 0.2);
   box-shadow: 0 12px 30px rgba(15, 23, 42, 0.45);
   transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease;
+  overflow: hidden;
+}
+
+.logiciels-card.vskin::after {
+  background-image: url('/img/vskin_bg.png');
+}
+
+.logiciels-card.vtube-studio::after {
+  background-image: url('/img/vtubestudio_bg.png');
+}
+
+.logiciels-card::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-repeat: no-repeat;
+  background-size: 400px 100%;
+  background-position: right center;
+  opacity: 0.07;
+  pointer-events: none;
+  z-index: 0;
+
+  transition: all 0.5s;
+}
+.logiciels-card > * {
+  position: relative;
+  z-index: 1;
 }
 .logiciels-card:hover {
   transform: translateY(-6px);
   box-shadow: 0 18px 50px rgba(15, 23, 42, 0.55);
   border-color: rgba(148, 163, 184, 0.5);
+}
+.logiciels-card:hover::after {
+  opacity: 0.3;
 }
 .logiciels-card-link {
   display: flex;
@@ -181,6 +233,7 @@ sidebar_label: Logiciels de VTubing 2D
 }
 `}</style>
 
+
 <div class="logiciels-3d-shell">
   <section class="logiciels-3d-hero">
     <p class="logiciels-3d-hero-eyebrow">Logiciels de VTubing 2D</p>
@@ -195,53 +248,36 @@ sidebar_label: Logiciels de VTubing 2D
       <span>VTube Studio</span>
     </div>
   </section>
-  <!-- <div class="logiciels-3d-grid">
-    <article class="logiciels-card">
-      <a class="logiciels-card-link" href="/docs/category/vseeface">
+  <div class="logiciels-3d-grid">
+    <article class="logiciels-card vtube-studio">
+      <a class="logiciels-card-link" href="/docs/category/vtube-studio">
         <div>
-          <p class="logiciels-card-eyebrow">VSeeFace</p>
-          <h3>VSeeFace, la base pour le VTubing 3D</h3>
+          <p class="logiciels-card-eyebrow">VTube Studio</p>
+          <h3>VTube Studio, l'incontournable pour la 2D</h3>
           <p>
-            Très appréciée pour sa simplicité, le logiciel VSeeFace réponds au besoin de beaucoup de créateurs virtuels ne souhaitant pas pousser l'interactivité de l'avatar au maximum et désirant une solution stable.
+            Un des logiciels le plus apprécié et le plus complet pour le support des modèles Live 2D au sein de la communauté VTubing.
           </p>
         </div>
       </a>
       <div class="logiciels-card-actions">
-        <a class="logiciels-card-quickstart" href="/docs/vseeface">Démarrage rapide</a>
-        <a class="logiciels-card-explore" href="/docs/category/vseeface">Explorer la catégorie</a>
+        <a class="logiciels-card-quickstart" href="/docs/vtube-studio">Démarrage rapide</a>
+        <a class="logiciels-card-explore" href="/docs/category/vtube-studio">Explorer la catégorie</a>
       </div>
     </article>
-    <article class="logiciels-card">
-      <a class="logiciels-card-link" href="/docs/category/vnyan">
+    <article class="logiciels-card vskin">
+      <a class="logiciels-card-link" href="/docs/category/vskin">
         <div>
-          <p class="logiciels-card-eyebrow">VNyan</p>
-          <h3>VNyan, l'outil ultime pour le VTubing 3D</h3>
+          <p class="logiciels-card-eyebrow">V-Skin</p>
+          <h3>V-Skin, le logiciel alliant Live2D et 3D</h3>
           <p>
-            Créez facilement animations, interactions et scènes dynamiques grâce à une interface de noeuds.
-            VNyan se propose comme une solution très personalisable.<br/>
-            Compatible avec Twitch, YouTube, Kick, Chaturbate, Fansly et Pulsoid.
+            [En cours de rédaction...]
           </p>
         </div>
       </a>
       <div class="logiciels-card-actions">
-        <a class="logiciels-card-quickstart" href="/docs/vnyan">Démarrage rapide</a>
-        <a class="logiciels-card-explore" href="/docs/category/vnyan">Explorer la catégorie</a>
+        <a class="logiciels-card-quickstart" href="/docs/vskin">Démarrage rapide</a>
+        <a class="logiciels-card-explore" href="/docs/category/vskin">Explorer la catégorie</a>
       </div>
     </article>
-    <article class="logiciels-card">
-      <a class="logiciels-card-link" href="/docs/category/warudo">
-        <div>
-          <p class="logiciels-card-eyebrow">Warudo</p>
-          <h3>Warudo, libérez votre potentiel virtuel</h3>
-          <p>
-            Logiciel complet et puissant, Warudo s'adresse autant aux créateurs qu'aux studios professionnels. Il prend en charge un large éventail de systèmes de motion capture, idéal aussi bien pour le streaming à domicile que pour les environnements mocap avancés.
-          </p>
-        </div>
-      </a>
-      <div class="logiciels-card-actions">
-        <a class="logiciels-card-quickstart" href="/docs/vseeface">Démarrage rapide</a>
-        <a class="logiciels-card-explore" href="/docs/category/warudo">Explorer la catégorie</a>
-      </div>
-    </article>
-  </div> -->
+  </div>
 </div>

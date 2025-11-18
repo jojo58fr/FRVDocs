@@ -134,11 +134,11 @@ Oui. Beaucoup plus souvent que vous ne le pensez.
 Les réseaux sociaux sont construits pour l'engagement, souvent au détriment du bien-être. Vous verrez beaucoup de posts destinés à vous faire réagir, y compris négativement.
 
 ### Bloquez/mutez lorsque :
-- Vous n’avez **rien à gagner** d’un débat.
-- Quelqu’un veut « débattre » mais ne changera jamais d’avis.
-- Quelqu’un pourrit systématiquement vos posts ou votre TL.
-- Quelqu’un vous met mal à l’aise, même vaguement.
-- Quelqu’un a des opinions non pas différentes, mais **inacceptables**.
+- Vous n'avez **rien à gagner** d'un débat.
+- Quelqu'un veut « débattre » mais ne changera jamais d'avis.
+- Quelqu'un pourrit systématiquement vos posts ou votre TL.
+- Quelqu'un vous met mal à l'aise, même vaguement.
+- Quelqu'un a des opinions non pas différentes, mais **inacceptables**.
 
 Vous n'avez **aucune explication** à donner.
 
@@ -163,7 +163,7 @@ Salut !
 
 **Puis 10 minutes plus tard encore :**
 
-J’aurais voulu te demander un truc…
+J'aurais voulu te demander un truc…
 ```
 
 Vous risquez de perdre 10–20 minutes en formalités inutiles.
@@ -171,7 +171,7 @@ Vous risquez de perdre 10–20 minutes en formalités inutiles.
 ### Le bon format :
 ```
 Salut ! J'espère que tu vas bien.
-Je t’écris pour te demander X / te proposer Y / te poser une question au sujet de Z.
+Je t'écris pour te demander X / te proposer Y / te poser une question au sujet de Z.
 <la question directement>
 ```
 

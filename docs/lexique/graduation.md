@@ -10,4 +10,3 @@ slug: /lexique/graduation
 Stream d'adieu ou départ d'une agence qui marque la retraite du talent.
 
 ## Sources
-- https://streamlabs.com/content-hub/post/vtubing-custom-slang-beginners

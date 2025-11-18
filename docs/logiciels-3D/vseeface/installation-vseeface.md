@@ -315,18 +315,18 @@ Et boum, tout se remet au centre.
 ## ⌨️ 10. Les raccourcis clavier de VSeeFace
 
 ### Raccourcis
-- **Barre Espace** : Afficher/masquer l’interface (bouton UI hide).
-- **R** : Réinitialiser la pose de l’avatar.
-- **Shift + R** : Réinitialiser complètement la pose de l’avatar.
-- **S** : Faire une capture d’écran haute résolution.
-- **Shift + S** : Faire une capture d’écran après 3 secondes.
+- **Barre Espace** : Afficher/masquer l'interface (bouton UI hide).
+- **R** : Réinitialiser la pose de l'avatar.
+- **Shift + R** : Réinitialiser complètement la pose de l'avatar.
+- **S** : Faire une capture d'écran haute résolution.
+- **Shift + S** : Faire une capture d'écran après 3 secondes.
 - **L** : Charger un nouvel avatar VRM.
 - **C** : Réinitialiser la caméra.
 - **D** : Réinitialiser la direction de la lumière.
 
 ### Raccourcis globaux (Utilisable même quand tu es pas sur l'application)
-- **Ctrl + Shift + F1 à Ctrl + Shift + F6** : Forcer l’expression correspondante (Neutre, Fun, Angry, Joy, Sorrow, Surprise).
-    - **Appuyer à nouveau** : arrêter l’expression.
+- **Ctrl + Shift + F1 à Ctrl + Shift + F6** : Forcer l'expression correspondante (Neutre, Fun, Angry, Joy, Sorrow, Surprise).
+    - **Appuyer à nouveau** : arrêter l'expression.
     - **Maintenir une autre touche** : passer directement à une autre expression.
 - **Ctrl + Shift + F7** : Activer/désactiver le suivi des mains via Leap Motion.
 

@@ -576,6 +576,12 @@ slug: /lexique
           <p>Stream «凸待ち» où le VTuber attend des appels entrants.</p>
         </div>
       </a>
+      <a class="lexicon-card" href="/docs/lexique/tsundere">
+        <div>
+          <strong>Tsundere</strong>
+          <p>Personne qui alterne froideur ou agressivité en surface et affection sincère en profondeur.</p>
+        </div>
+      </a>
     </div>
   </section>
   <section class="lexicon-section">

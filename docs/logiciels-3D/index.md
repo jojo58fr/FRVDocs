@@ -20,7 +20,28 @@ sidebar_label: Logiciels de VTubing 3D
   border-radius: 1.25rem;
   padding: 2.25rem;
   box-shadow: 0 20px 45px rgba(15, 23, 42, 0.55);
+
+  position: relative;
 }
+
+.logiciels-3d-hero::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-repeat: no-repeat;
+  background-size: 500px 100%;
+  background-position: right center;
+  opacity: 0.07;
+  pointer-events: none;
+  z-index: 0;
+  background-image: url('/img/kokori_bg.png');
+  transition: all 0.5s;
+}
+
+.logiciels-3d-hero:hover::after {
+  opacity: 0.15;
+}
+
 .logiciels-3d-hero-eyebrow {
   text-transform: uppercase;
   letter-spacing: 0.3em;
@@ -59,6 +80,7 @@ sidebar_label: Logiciels de VTubing 3D
   gap: 1rem;
 }
 .logiciels-card {
+  position: relative;
   display: flex;
   flex-direction: column;
   min-height: 220px;
@@ -68,11 +90,54 @@ sidebar_label: Logiciels de VTubing 3D
   border: 1px solid rgba(148, 163, 184, 0.2);
   box-shadow: 0 12px 30px rgba(15, 23, 42, 0.45);
   transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease;
+  overflow: hidden;
+}
+
+.logiciels-card.vseeface::after {
+  background-image: url('/img/vseeface_bg.png');
+}
+
+.logiciels-card.vnyan::after {
+  background-image: url('/img/vnyan_bg.png');
+}
+
+.logiciels-card.warudo::after {
+  background-image: url('/img/warudo_bg.png');
+}
+
+.logiciels-card.vtube-studio::after {
+  background-image: url('/img/vtube-studio_bg.png');
+}
+
+.logiciels-card.vskin::after {
+  background-image: url('/img/vskin_bg.png');
+}
+
+
+.logiciels-card::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-repeat: no-repeat;
+  background-size: 400px 100%;
+  background-position: right center;
+  opacity: 0.07;
+  pointer-events: none;
+  z-index: 0;
+
+  transition: all 0.5s;
+}
+.logiciels-card > * {
+  position: relative;
+  z-index: 1;
 }
 .logiciels-card:hover {
   transform: translateY(-6px);
   box-shadow: 0 18px 50px rgba(15, 23, 42, 0.55);
   border-color: rgba(148, 163, 184, 0.5);
+}
+.logiciels-card:hover::after {
+  opacity: 0.3;
 }
 .logiciels-card-link {
   display: flex;
@@ -181,6 +246,7 @@ sidebar_label: Logiciels de VTubing 3D
 }
 `}</style>
 
+
 <div class="logiciels-3d-shell">
   <section class="logiciels-3d-hero">
     <p class="logiciels-3d-hero-eyebrow">Logiciels de VTubing 3D</p>
@@ -195,7 +261,7 @@ sidebar_label: Logiciels de VTubing 3D
     </div>
   </section>
   <div class="logiciels-3d-grid">
-    <article class="logiciels-card">
+    <article class="logiciels-card vseeface">
       <a class="logiciels-card-link" href="/docs/category/vseeface">
         <div>
           <p class="logiciels-card-eyebrow">VSeeFace</p>
@@ -210,7 +276,7 @@ sidebar_label: Logiciels de VTubing 3D
         <a class="logiciels-card-explore" href="/docs/category/vseeface">Explorer la catégorie</a>
       </div>
     </article>
-    <article class="logiciels-card">
+    <article class="logiciels-card vnyan">
       <a class="logiciels-card-link" href="/docs/category/vnyan">
         <div>
           <p class="logiciels-card-eyebrow">VNyan</p>
@@ -227,7 +293,7 @@ sidebar_label: Logiciels de VTubing 3D
         <a class="logiciels-card-explore" href="/docs/category/vnyan">Explorer la catégorie</a>
       </div>
     </article>
-    <article class="logiciels-card">
+    <article class="logiciels-card warudo">
       <a class="logiciels-card-link" href="/docs/category/warudo">
         <div>
           <p class="logiciels-card-eyebrow">Warudo</p>
@@ -240,6 +306,21 @@ sidebar_label: Logiciels de VTubing 3D
       <div class="logiciels-card-actions">
         <a class="logiciels-card-quickstart" href="/docs/vseeface">Démarrage rapide</a>
         <a class="logiciels-card-explore" href="/docs/category/warudo">Explorer la catégorie</a>
+      </div>
+    </article>
+    <article class="logiciels-card vskin">
+      <a class="logiciels-card-link" href="/docs/category/vskin">
+        <div>
+          <p class="logiciels-card-eyebrow">V-Skin</p>
+          <h3>V-Skin, le logiciel alliant Live2D et 3D</h3>
+          <p>
+            [En cours de rédaction...]
+          </p>
+        </div>
+      </a>
+      <div class="logiciels-card-actions">
+        <a class="logiciels-card-quickstart" href="/docs/vskin">Démarrage rapide</a>
+        <a class="logiciels-card-explore" href="/docs/category/vskin">Explorer la catégorie</a>
       </div>
     </article>
   </div>

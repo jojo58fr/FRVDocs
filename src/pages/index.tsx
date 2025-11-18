@@ -16,6 +16,42 @@ const contentByLocale = {
       'Si vous souhaitez débuter en tant que VTuber, toutes les ressources & lexiques sont disponibles ici !',
     heroPrimary: 'Contribuer au projet',
     heroSecondary: 'Explorer les articles communautaires',
+    categorySectionTitle: 'Accès rapide',
+    categorySectionIntro:
+      'Choisis une thématique et accède directement aux pages qui t\'intéresses !',
+    categoryCtaLabel: 'Explorer la catégorie',
+    categoryCards: [
+      {
+        title: 'VTubing en général',
+        description:
+          'Guide pour débuter, Comment faire un Debut/Redebut..etc',
+        link: 'docs/category/vtubing-en-général',
+      },
+      {
+        title: 'Logiciels de VTubing 2D',
+        description:
+          'VTube Studio, V-Skin, tous les astuces sur ces logiciels.',
+        link: 'docs/logiciels-vtubing-2d',
+      },
+      {
+        title: 'Logiciels de VTubing 3D',
+        description:
+          'Warudo, VSeeFace, VNyan, tous les astuces sur ces logiciels.',
+        link: 'docs/logiciels-vtubing-3d',
+      },
+      {
+        title: 'La modération',
+        description:
+          'Les bonnes pratiques et outils pour créer un espace protégé qui te correspond.',
+        link: '/docs/category/la-modération',
+      },
+      {
+        title: 'Twitch',
+        description:
+          'Tout ce que tu dois savoir pour préparer tes lives Twitch.',
+        link: '/docs/category/twitch',
+      },
+    ],
     highlights: [
       {
         title: 'Tous le monde peux créer une documentation 📝',
@@ -47,6 +83,37 @@ const contentByLocale = {
       'Everything you need to start as a VTuberFR (resources & glossaries) is right here!',
     heroPrimary: 'Contribute to the project',
     heroSecondary: 'Browse community articles',
+    categorySectionTitle: 'Quick access',
+    categorySectionIntro:
+      'Pick a theme and land directly on what you need !',
+    categoryCtaLabel: 'Visit the category',
+    categoryCards: [
+      {
+        title: 'VTubing in general',
+        description: 'Launch guides, glossaries, and fundamentals for francophone VTubers.',
+        link: '/docs/category/vtubing',
+      },
+      {
+        title: '2D VTubing software',
+        description: 'VTube Studio, V-Skin, and quickstart tips for 2D avatars.',
+        link: '/docs/category/logiciels-2d',
+      },
+      {
+        title: '3D VTubing software',
+        description: 'VSeeFace, Warudo, and best practices for 3D tracking setups.',
+        link: '/docs/category/logiciels-3d',
+      },
+      {
+        title: 'Moderation',
+        description: 'Policies, playbooks, and tools to keep chats healthy.',
+        link: '/docs/category/moderation',
+      },
+      {
+        title: 'Twitch',
+        description: 'Commands, automations, and prep notes for streaming on Twitch.',
+        link: '/docs/category/twitch',
+      },
+    ],
     highlights: [
       {
         title: 'Clear foundations',
@@ -133,6 +200,25 @@ export default function Home(): ReactNode {
     >
       <HomepageHeader />
       <main>
+        <section className={styles.categorySection}>
+          <div className="container">
+            <Heading as="h2" className={styles.sectionTitle}>
+              {localeContent.categorySectionTitle}
+            </Heading>
+            <p className={styles.categoryIntro}>{localeContent.categorySectionIntro}</p>
+            <div className={styles.categoryGrid}>
+              {localeContent.categoryCards.map((category) => (
+                <Link key={category.title} to={category.link} className={styles.categoryCard}>
+                  <div>
+                    <p className={styles.categoryLabel}>{category.title}</p>
+                    <p className={styles.categoryDescription}>{category.description}</p>
+                  </div>
+                  <span className={styles.categoryCta}>{localeContent.categoryCtaLabel}</span>
+                </Link>
+              ))}
+            </div>
+          </div>
+        </section>
         <section className={styles.section}>
           <div className="container">
             <Heading as="h2" className={styles.sectionTitle}>
