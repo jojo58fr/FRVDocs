@@ -2,7 +2,7 @@
 sidebar_position: 2
 title: Installation & Présentation Vtube Studio
 description: Comment installer VTube Studio sur Windows et présentation de son interface
-slug: /installation-presentation-vtube-studio
+slug: /logiciels-2d/vtube-studio/installation-presentation-vtube-studio
 sidebar_label: Installation & Présentation VTube Studio
 ---
 
@@ -155,7 +155,7 @@ Clique sur **Auto Setup** si :
 
 ## 📷 6. Configurer la caméra
 
-> Si ton modèle n'utilise **pas** de face tracking (juste mouvement avec la voix ou la bouche), tu peux sauter cette section [et passer à la suivante](installation-presentation-vtube-studio#%EF%B8%8F-8-les-autres-param%C3%A8tres-importants).
+> Si ton modèle n'utilise **pas** de face tracking (juste mouvement avec la voix ou la bouche), tu peux sauter cette section [et passer à la suivante](#%EF%B8%8F-7-les-autres-param%C3%A8tres-importants).
 
 ![Ouverture paramètres VTube Studio](./img/vtube-studio-settings-tracking.png)
 
@@ -251,7 +251,7 @@ VTube Studio possède un système de plugins grâce à l'API VTube Studio.\
 
 ℹ️ Les plugins ne peuvent pas accéder à votre webcam ni lire de données personnelles via VTS.
 
-Si tu veux plus de détail sur les plugins sur VTube Studio, [tu peux suivre ce guide](/docs/plugin-vtube-studio)
+Si tu veux plus de détail sur les plugins sur VTube Studio, [tu peux suivre ce guide](/docs/logiciels-2d/vtube-studio/plugin-vtube-studio#un-résumé-de-ce-quest-des-plugins-sur-vtube-studio)
 
 #### Module API de l'éditeur Cubism Live 2D (pratique pour les créateurs Live2D)
 
@@ -267,19 +267,54 @@ Cette intégration permet deux usages principaux :
     - Cette fonction peut également servir à **enregistrer des animations** directement dans Cubism en utilisant les données de suivi de VTube Studio.
 
 - Détection et copie automatique des modèles exportés
-    - VTube Studio détecte automatiquement l’exportation d’un modèle depuis le Cubism Editor.  
-    - Lorsqu’un modèle est exporté, il est **copié automatiquement** dans le dossier des modèles de VTube Studio, simplifiant le flux de travail.
+    - VTube Studio détecte automatiquement l'exportation d'un modèle depuis le Cubism Editor.  
+    - Lorsqu'un modèle est exporté, il est **copié automatiquement** dans le dossier des modèles de VTube Studio, simplifiant le flux de travail.
 
-Si tu veux plus de détail sur les plugins sur VTube Studio, [tu peux suivre ce guide](/docs/plugin-vtube-studio)
+Si tu veux plus de détail sur les plugins sur VTube Studio, [tu peux suivre ce guide](/docs/logiciels-2d/vtube-studio/tester-modele-live2d-cubism-vtube-studio#%EF%B8%8F-comment-intégrer-live2d-cubism-à-vtube-studio-)
 
 #### Configuration de la souris sur VTube Studio
 
 ![Les paramètres généraux de VTube Studio](./img/vtube-studio-settings-5.png)  
 
-#### Paramètre du microphone & Gestion avancée du LipSync
+Ce module permet de configurer comment la souris est prise en compte par le logiciel.\
+Tu peux régler les réglages de la souris pour zoomer et faire pivoter ton modèle dans VTube Studio
+- **Scaling: Scroll speed :** Vitesse de zoom de la souris
+- **Rotating: Scroll speed :** Vitesse de la rotation avec le curseur de la souris
 
-![Les paramètres généraux de VTube Studio](./img/vtube-studio-settings-6.png)  
-![Les paramètres généraux de VTube Studio](./img/vtube-studio-settings-7.png)
+Ces réglages te permettent de contrôler le zoom et la rotation avec la souris sans forcément passer par le menu.
+
+#### Paramètre du microphone
+
+![La sélection du microphone pour VTube Studio](./img/vtube-studio-settings-6.png)  
+
+Tu peux paramétrer ton microphone sur VTube Studio ici ! Clique sur **Microphone** et sélectionne le micro que tu désires mettre en place. Pour **activer le microphone**, il te suffira juste d'activer "Use Microphone" par la suite.
+
+Tu peux régler sur l'application:
+- Le gain de volume:\
+Si tu parles trop fort ou que le micro sature sur la preview, diminue le gain et à l'inverse, si tu parles trop doucement, tu peux l'augmenter.
+- Le seuil du volume (Volume Cutoff):\
+C'est le seul à partir du moment où tu modèle considère que tu es en train de parler. Si c'est trop bas, le lipsync bougera même avec du bruit de fond, si c'est trop haut, le lipsync ne s'activera que lorsque tu parles très fort. Cela permet d'ignorer le bruit de fond sur le microphone.
+- Le gain de fréquence (Frequency gain):\
+C'est utilise si ton micro manque de détection sur les aigus ou, à l'inverse, possède un son trop clair.
+Un réglage plus élevé peux aider à distinguer les mouvements de bouche.
+
+#### Gestion Avancée du LipSync
+
+![Les différents type de Lipsync](./img/vtube-studio-settings-7.png)
+
+Ce module permet à VTube Studio d'analyser ta voix pour calculer la forme que devrais prendre la bouche en considération.
+Dépendant de comment tu as configuré VTube Studio, tu peux aussi tracker ta bouche avec le tracking de la caméra ou téléphone.
+
+Clique sur "LipSync Type", Tu peux choisir entre deux types de LipSync:
+- LipSync Simple:\
+  Uniquement pour Windows, l'option est basée sur [Occulus VR Lipsync](https://developers.meta.com/horizon/documentation/unity/audio-ovrlipsync-unity/?locale=fr_FR). \
+  **⚠️ Feature dépréciée**, VTube studio souhaite que les utilisateurs utilisent le **LypSync Avancée** car ils prends les mêmes paramètres (et plus) avec une meilleure précision.
+
+- LipSync avancée:\
+  Basé sur [uLipSync par hecomi](https://github.com/hecomi/uLipSync). \
+  Ce mode est rapide et précis, peut être calibré avec votre propre voix pour détecter avec exactitude les phonèmes **A, I, U, E, O**  C'est disponible de base sur toutes les plateformes (ordinateur et smartphone)
+
+Si tu veux plus de détail sur la configuration du LypSync sur VTube Studio, [tu peux suivre ce guide](/docs/logiciels-2d/vtube-studio/plugin-vtube-studio)
 
 #### Intégration Twitch (déclencher des hotkeys via des Redeems)
 
@@ -297,9 +332,31 @@ Ce module permet d'intégrer des interactions entre ton modèle et des points de
 ➡️ Hésite pas à regarder les différentes fonctionnalités qui ont pleins d'options intéressantes.
 Dès que tu seras en live, les viewers pourront déclencher ces features via Twitch.
 
---- 
+---
+
+#### Module Discord Reactive
+
 ![Les paramètres généraux de VTube Studio](./img/vtube-studio-settings-9.png)  
+
+**Discord Reactive** est un outil qui permet de visualiser un salon vocal Discord dans des streams en direct ou dans des vidéos enregistrées.
+Si tu ne fais pas de contenu vidéo ou de live, tu n'as probablement pas besoin d'utiliser Reactive.
+Cela dit, certaines personnes s'en servent comme webcam animée dans leurs appels Discord - et si c'est ton cas, libre à toi de l'utiliser !
+
+---
+#### Intégration Mocopi
+
 ![Les paramètres généraux de VTube Studio](./img/vtube-studio-settings-10.png)  
+
+![Intégration Mocopi dans VTube Studio](./img/mocopi_example_dance.gif)
+
+ℹ️ À l'heure actuel, le support de cette technologie côté Mocopi ou VTube Studio est uniquement très présent pour les Japonais et Chinois. Merci de le prendre en compte lors de l'usage de cette technologie.
+
+Ce module VTube Studio permet de capturer les mouvements de ton corps dans VTube Studio à l'aide du tracker mocopi de Sony. VTube Studio convertit facilement les mouvements 3D de ton corps en paramètres pour le modèles Live 2D.\
+Cela inclut les mouvements du corps, de la tête, des jambes, des bras et des mains. 
+
+⚠️ VTube Studio peut recevoir et utiliser les données mocopi uniquement sous Windows et macOS.
+
+Si tu veux plus de détail sur la configuration du Mocopi sur VTube Studio, [tu peux suivre ce guide](/docs/logiciels-2d/vtube-studio/comment-integrer-mocopi-vtube-studio)
 
 ### 👤 Model Configuration
 

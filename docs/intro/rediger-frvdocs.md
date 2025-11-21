@@ -3,7 +3,9 @@ title: Comment rédiger pour FRVDocs ? (les outils..etc)
 sidebar_label: Comment rédiger pour FRVDocs ?
 description: Les outils de rédactions pour FRVDocs et comment rédiger un document en markdown
 authors: [TakuDev]
+slug: /intro/rediger-frvdocs
 ---
+
 # Comment rédiger un article pour FRVDocs ?
 
 Ce guide explique les outils, les bases du Markdown afin de permettre à chacun d'écrire simplement et proprement ses articles avant de les envoyer sur **Discord**. 

@@ -4,6 +4,7 @@ title: Introduction à FRVDocs
 sidebar_label: Introduction à FRVDocs
 description: Comment contribuer et qu'est-ce que le projet FRVDocs ?
 authors: [TakuDev]
+slug: /intro
 ---
 
 <p align="center">

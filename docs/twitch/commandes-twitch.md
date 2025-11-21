@@ -2,7 +2,7 @@
 title: 📢 Ces commandes Twitch à connaître !
 sidebar_label: 📢 Ces commandes Twitch à connaître !
 description: Voici un récapitulatif des commandes qui sont intéressant à connaitre sur Twitch tout au long de votre vie de créateur dessus. 
-slug: /commandes-twitch
+slug: /twitch/commandes-twitch
 authors: [TakuDev]
 ---
 

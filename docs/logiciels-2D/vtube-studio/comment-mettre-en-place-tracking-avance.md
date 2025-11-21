@@ -1,8 +1,8 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 title: Comment mettre en place un tracking avancé avec VBridger ou Vitamins ?
 description: Guide pour relier un iPhone à VTube Studio et obtenir un tracking facial très détaillé.
-slug: /tracking-avance-vtube-studio
+slug: /logiciels-2d/vtube-studio/tracking-avance-vtube-studio
 sidebar_label: Tracking avancé (VBridger / Vitamins)
 ---
 

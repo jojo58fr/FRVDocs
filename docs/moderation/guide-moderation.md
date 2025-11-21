@@ -2,7 +2,7 @@
 title: Guide de Modération - Les bonnes pratiques
 sidebar_label: Guide de Modération - Les bonnes pratiques
 description: Les bonnes pratiques pour gérer ta chaine en tant que VTuber
-slug: /guide-moderation
+slug: /moderation/guide-moderation
 authors: [TakuDev]
 ---
 

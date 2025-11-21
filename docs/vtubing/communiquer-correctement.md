@@ -2,7 +2,7 @@
 title: Comment communiquer correctement avec d'autres VTubers ?
 sidebar_label: Communication entre VTubers
 description: Comment je dois me comporter et communiquer avec les autres VTubers ?
-slug: /communiquer-correctement-entre-vtubers
+slug: /vtubing/communiquer-correctement-entre-vtubers
 authors: [TakuDev, Marius]
 ---
 
@@ -66,7 +66,7 @@ Même si vous discutez, n'oubliez pas :
 
 - Vous ne connaissez pas encore la personne.
 - Vous ne devez **jamais accorder une confiance aveugle** sur internet.
-- Beaucoup de « piliers » de communauté ont déjà été révélés comme abusant de la confiance d'autrui.
+- Beaucoup de " piliers " de communauté ont déjà été révélés comme abusant de la confiance d'autrui.
 
 > **Tissez des liens, partagez, mais gardez vos limites et restez prudents.**
 
@@ -107,7 +107,7 @@ Cela dépend du contexte. Quelques possibilités :
 - Elle n'a pas jugé nécessaire de répondre.
 - Elle n'a pas le temps.
 
-Si vous avez attendu un délai **raisonnable** (souvent une semaine, selon contexte), vous pouvez relancer poliment — ou simplement attendre.
+Si vous avez attendu un délai **raisonnable** (souvent une semaine, selon contexte), vous pouvez relancer poliment - ou simplement attendre.
 
 ---
 
@@ -135,7 +135,7 @@ Les réseaux sociaux sont construits pour l'engagement, souvent au détriment du
 
 ### Bloquez/mutez lorsque :
 - Vous n'avez **rien à gagner** d'un débat.
-- Quelqu'un veut « débattre » mais ne changera jamais d'avis.
+- Quelqu'un veut " débattre " mais ne changera jamais d'avis.
 - Quelqu'un pourrit systématiquement vos posts ou votre TL.
 - Quelqu'un vous met mal à l'aise, même vaguement.
 - Quelqu'un a des opinions non pas différentes, mais **inacceptables**.
@@ -194,7 +194,7 @@ Ensuite, posez-vous ces questions :
 - Pouvez-vous assumer publiquement ce que vous allez dire, **sans regret** ?
 - Êtes-vous réellement concerné ?
 
-> Si **une seule** de ces réponses est « non » :  
+> Si **une seule** de ces réponses est " non " :  
 > **Ne dites rien. Rien. Que dalle.**
 
 Si vous êtes concerné (par exemple pour informer votre communauté), vous pouvez y aller…  

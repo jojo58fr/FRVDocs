@@ -287,7 +287,7 @@ slug: /lexique
       <a class="lexicon-card" href="/docs/lexique/idol">
         <div>
           <strong>Idol</strong>
-          <p>Un idol est un artiste mis en avant pour son image et ses talents, une logique reprise par le VTubing à travers des VTubers présentés comme « idols virtuels » polyvalents.</p>
+          <p>Un idol est un artiste mis en avant pour son image et ses talents, une logique reprise par le VTubing à travers des VTubers présentés comme " idols virtuels " polyvalents.</p>
         </div>
       </a>
       <a class="lexicon-card" href="/docs/lexique/2-5d-idol">
@@ -573,7 +573,7 @@ slug: /lexique
       <a class="lexicon-card" href="/docs/lexique/totsumachi">
         <div>
           <strong>Totsumachi</strong>
-          <p>Stream «凸待ち» où le VTuber attend des appels entrants.</p>
+          <p>Stream "凸待ち" où le VTuber attend des appels entrants.</p>
         </div>
       </a>
       <a class="lexicon-card" href="/docs/lexique/tsundere">

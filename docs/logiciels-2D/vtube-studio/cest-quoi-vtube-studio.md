@@ -2,7 +2,7 @@
 sidebar_position: 1
 title: C'est quoi VTube Studio ?
 description: Présentation de l'outil VTube Studio.
-slug: /vtube-studio
+slug: /logiciels-2d/vtube-studio
 sidebar_label: C'est quoi VTube Studio ?
 ---
 

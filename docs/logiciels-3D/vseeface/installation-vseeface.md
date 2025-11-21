@@ -2,7 +2,7 @@
 sidebar_position: 2
 title: Installation & Présentation VSeeFace
 description: Comment installer VSeeFace sur Windows et présentation de son interface
-slug: /installation-presentation-vseeface
+slug: /logiciels-3d/vseeface/installation-presentation-vseeface
 sidebar_label: Installation & Présentation VSeeFace
 ---
 
@@ -46,7 +46,7 @@ sidebar_label: Installation & Présentation VSeeFace
 ### 🐧 1.1 Concernant le support Linux
 
 Suivez-ce guide spécialement dédiée pour l'installation sous Linux avant de revenir dans ce guide:\
-[Guide pour l'installation sous Linux](/docs/installation-linux-vseeface)
+[Guide pour l'installation sous Linux](/docs/logiciels-3d/vseeface/installation-linux-vseeface)
 
 ------------------------------------------------------------------------
 

@@ -2,7 +2,7 @@
 sidebar_position: 3
 title: Installation de VSeeFace sous Linux ou Mac (via Wine)
 description: Comment installer VSeeFace sous Linux ou Mac
-slug: /installation-linux-vseeface
+slug: /logiciels-3d/vseeface/installation-linux-vseeface
 sidebar_label: Installation de VSeeFace sous Linux ou Mac (via Wine)
 ---
 
@@ -153,4 +153,4 @@ Ce script envoie les données de tracking à VSeeFace via **UDP localhost**.
 
 ## 📄 Fin de l'installation Linux
 Félicitation ! Vous avez installé VSeeFace sur Linux, vous pouvez continuer à suivre le guide principale: \
-[Continuer le guide d'installation & présentation à VSeeFace](/docs/installation-presentation-vseeface#-3-ajouter-ton-avatar-vrm)
+[Continuer le guide d'installation & présentation à VSeeFace](/docs/logiciels-3d/vseeface/installation-presentation-vseeface#-3-ajouter-ton-avatar-vrm)

@@ -316,7 +316,7 @@ slug: /lexique
       <a class="lexicon-card" href="/docs/lexique/kami-oshi">
         <div>
           <strong>Kami-oshi</strong>
-          <p>A fan's absolute favorite talent — their top oshi.</p>
+          <p>A fan's absolute favorite talent - their top oshi.</p>
         </div>
       </a>
       <a class="lexicon-card" href="/docs/lexique/kirinuki">

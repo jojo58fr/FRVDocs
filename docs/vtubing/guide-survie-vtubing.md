@@ -2,7 +2,7 @@
 title: Guide de survie dans le milieu du vtubing
 sidebar_label: Guide de survie dans le milieu du vtubing
 description: Guide de survie rapide pour comprendre rapidement le milieu du VTubing
-slug: /guide-survie-vtubing
+slug: /vtubing/guide-survie-vtubing
 authors: [TakuDev, Marius]
 ---
 
@@ -57,30 +57,30 @@ C'est pourtant bien normal :
 - peu y trouvent le moindre succès ;
 - il y a beaucoup de non-dits sur les réalités de l'activité, notamment sur l'importance de tout ce qui est à faire **en dehors** du stream, comme expliqué plus haut.
 
-> Pour le sujet de la communication directement, veuillez vous référer à « Comment communiquer correctement ? », un autre document sur FRVDocs.
+> Pour le sujet de la communication directement, veuillez vous référer à " Comment communiquer correctement ? ", un autre document sur FRVDocs.
 
 ---
 
-## « La » communauté des VTubers FR
+## "La" communauté des VTubers FR
 
 Les VTubers en général, et les VTubers francophones en particulier, ont des liens intéressants avec la notion de communauté :
 
-- Pour certains, faire partie de « la communauté » est la raison principale qui les pousse à devenir VTuber eux-mêmes.
+- Pour certains, faire partie de " la communauté " est la raison principale qui les pousse à devenir VTuber eux-mêmes.
 - Pour d'autres, ils évitent activement toute forme de proximité avec cette même communauté, malgré le partage d'une même passion.
 
-Beaucoup, notamment dans la sphère francophone, vous diront que la communauté est toxique, « pourrie jusque à la moelle », et que les gens qui la composent vous feront un grand sourire quand vous les regardez pour mieux vous achever quand vous négligez vos arrières.
+Beaucoup, notamment dans la sphère francophone, vous diront que la communauté est toxique, " pourrie jusque à la moelle ", et que les gens qui la composent vous feront un grand sourire quand vous les regardez pour mieux vous achever quand vous négligez vos arrières.
 
 D'autres vous diront de cette même communauté qu'ils adorent les gens qui la composent, ont un immense respect pour les actions entreprises par certains, et que les premiers sont juste des personnes aigries qui ont eu une ou deux malheureuses expériences ; qu'ils sont maintenant complètement aveugles aux bons côtés de la commu et n'arborent que haine et suspicion pour tous ceux qui ne font pas partie de leurs petits groupes, quand ce n'est pas juste pour gratter de l'engagement.
 
 Le truc avec ces deux points de vue radicalement opposés, c'est qu'ils sont tous deux au moins en partie vrais, aussi paradoxal que ça puisse paraître.
 
-### Une « communauté » qui n'est pas monolithique
+### Une " communauté " qui n'est pas monolithique
 
 Il faut bien comprendre qu'il n'y a pas **une** communauté monolithique du VTubing francophone, mais plutôt tout un tas de groupes qui peuvent avoir plus ou moins de liens entre eux.
 
 Bien sûr, il est plus probable que les membres de ces groupes aient entendu parler des VTubers francophones les plus populaires, mais ça n'est pas une garantie. Beaucoup puisent leur inspiration de la communauté anglophone ou japonaise directement, sans savoir qu'il existe des communautés francophones.
 
-Ainsi, il faut bien voir que, quand quelqu'un vous parle de « la communauté VTuber », il vous parle en fait de **la portion**, souvent assez peu représentative, de la communauté qu'il connaît.
+Ainsi, il faut bien voir que, quand quelqu'un vous parle de " la communauté VTuber ", il vous parle en fait de **la portion**, souvent assez peu représentative, de la communauté qu'il connaît.
 
 FRVtubers est une des plus grosses communautés de VTubing francophone sur Discord, par exemple, mais malgré tout, il y a bien plus de VTubers FR en dehors de notre serveur que dedans, et beaucoup ignorent encore notre existence.
 
@@ -88,14 +88,14 @@ FRVtubers est une des plus grosses communautés de VTubing francophone sur Disco
 
 ## Trends, traditions et libre arbitre
 
-Quand vous avez commencé à apprendre de la communauté, vous avez peut‑être entendu parler de beaucoup de termes spécialisés, mais surtout d'événements comme des « débuts », « redébuts », « graduations »…
+Quand vous avez commencé à apprendre de la communauté, vous avez peut‑être entendu parler de beaucoup de termes spécialisés, mais surtout d'événements comme des " débuts ", " redébuts ", " graduations "…
 
 Sachez que ces événements ont plus une valeur **traditionnelle** que pratique : n'en faites que si vous en avez réellement envie.
 
 Votre flux sur les réseaux sociaux se retrouvera saturé principalement par :
 
 - ces événements,
-- les posts plus « lambdas » de chaque VTuber,
+- les posts plus " lambdas " de chaque VTuber,
 - mais aussi, selon qui vous suivez, des **trends**.
 
 Ces trends, très littéralement des effets de mode, sont à double tranchant :
@@ -193,7 +193,7 @@ Donc :
 
 - Ne laissez pas les comportements que vous jugez problématiques s'installer.
 - Interdisez‑les, et prenez des sanctions appropriées.
-- Il vaut mieux perdre un « pilier » de la communauté d'un coup sec que le laisser faire pourrir tout le reste.
+- Il vaut mieux perdre un " pilier " de la communauté d'un coup sec que le laisser faire pourrir tout le reste.
 
 ---
 
@@ -216,7 +216,7 @@ Accordez votre confiance en ayant **un plan de crise** au cas où elle se retrou
 
 Pour tout ce qui concerne plus spécifiquement la communication (comment parler aux autres, gérer les malentendus, etc.), veuillez vous référer au post :
 
-> « Comment communiquer correctement ? »
+> " Comment communiquer correctement ? "
 
 sur ce même forum, qui approfondit ce sujet en détail.
 

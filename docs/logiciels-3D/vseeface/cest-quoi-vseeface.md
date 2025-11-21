@@ -2,7 +2,7 @@
 sidebar_position: 1
 title: C'est quoi VSeeFace ?
 description: Présentation de l'outil VSeeFace.
-slug: /vseeface
+slug: /logiciels-3d/vseeface
 sidebar_label: C'est quoi VSeeFace ?
 ---
 

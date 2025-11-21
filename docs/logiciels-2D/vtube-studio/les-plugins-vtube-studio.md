@@ -2,16 +2,43 @@
 sidebar_position: 4
 title: Les plugins VTube Studio
 description: Présentation des plugins et de l'API VTube Studio.
-slug: /plugin-vtube-studio
+slug: /logiciels-2d/vtube-studio/plugin-vtube-studio
 sidebar_label: Les plugins VTube Studio
 ---
 
 > Le Wiki VTube Studio contient les informations les plus récente et en détail. n'hésite pas à [le consulter ici](https://github.com/DenchiSoft/VTubeStudio/wiki/Plugins)\
 (⚠️ Documentation uniquement anglaise).
 
+### Version vidéo
+**(non-officiel à FRVDocs, exemple de vidéo qui concerne les plugins en anglais)**
+<div style={{ width: '100%', maxWidth: '100%', marginTop: '1rem', marginBottom: '1rem' }}>
+  <div
+    style={{
+      position: 'relative',
+      paddingBottom: '56.25%',
+      height: 0,
+      overflow: 'hidden',
+    }}>
+    <iframe
+      src="https://www.youtube.com/embed/IiZ0JrGd6BQ"
+      title="Commandes sur twitch"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen
+      style={{
+        border: 0,
+        position: 'absolute',
+        top: 0,
+        left: 0,
+        width: '100%',
+        height: '100%',
+      }}>
+    </iframe>
+  </div>
+</div>
+
 ## Un résumé de ce qu'est des plugins sur VTube Studio
 
-VTube Studio possède un système de plugins grâce à l'API VTube Studio.
+VTube Studio possède un système de plugins grâce à l'API VTube Studio.\
 **⚠️ DISCLAIMER : La gestion des plugins n'est pas supporté sur smartphone (Android/Apple).**
 
 **Quelques exemple de ce qui est réalisable :**
@@ -33,19 +60,19 @@ Ces plugins sont **non officiels** et non développés par l'auteur du logiciel 
   Utilise des effets sonores basés sur le mouvement des paramètres.
 
 - [**ViewLink** - *Kawa Entertainment*](https://kawaentertainment.itch.io/viewlink)  
-  Permet d’utiliser un modèle Live2D réagissant au gameplay VR sans matériel supplémentaire.
+  Permet d'utiliser un modèle Live2D réagissant au gameplay VR sans matériel supplémentaire.
 
 - [**Fugi Tech, discord reactive** - *Fugi & Iron Vertex*](https://vts-react.fugi.tech/)  
   Intégration Twitch/YouTube simple à configurer via une interface web.
 
 - [**VTS Desktop Audio** - *Lua Lucky*](https://lualucky.itch.io/vts-desktop-audio-plugin)  
-  Utilise l’audio du PC comme paramètres dans VTS.
+  Utilise l'audio du PC comme paramètres dans VTS.
 
 - [**VBridger** - *PiPuProductions & Serp*](https://store.steampowered.com/app/1898830/VBridger)  
   Plugin de tracking avancé optimisant l'utilisation des données ARKit sur iPhone.
 
 - [**Mix It Up Bot**](https://mixitupapp.com/)  
-  Bot de streaming polyvalent intégrant l’activation de hotkeys VTS.
+  Bot de streaming polyvalent intégrant l'activation de hotkeys VTS.
 
 - [**VTChaos** - *Raelice*](https://github.com/Raelice/VTchaos)  
   Chatbot YouTube/Twitch envoyant des commandes VTS via le chat.
@@ -54,7 +81,7 @@ Ces plugins sont **non officiels** et non développés par l'auteur du logiciel 
   Contrôle complet de VTS via le Stream Deck (store officiel).
 
 - [**TP_VTS (Touch Portal)** - *Wiccy*](https://wiccy.itch.io/tp-vts)  
-  Contrôle de VTS via l’application Touch Portal.  
+  Contrôle de VTS via l'application Touch Portal.  
   Supporte hotkeys, mouvements, couleurs, etc.
 
 - [**VtubeStudioSimpleSETool** - *物部モノ子*](https://mononobe-monoko.booth.pm/items/3468381)  
@@ -67,7 +94,7 @@ Ces plugins sont **non officiels** et non développés par l'auteur du logiciel 
   Contrôle du modèle via manette (Xbox, Switch Pro…).
 
 - [**VTSLivePlugins** - *最速のゆっくり*](https://github.com/fastestyukkuri/VTSLivePlugins)  
-  Contrôle du modèle selon l’heure, la météo, le cycle solaire, etc.
+  Contrôle du modèle selon l'heure, la météo, le cycle solaire, etc.
 
 - [**VTS Heartrate** - *Skeletom*](https://skeletom-ch.itch.io/vts-heartrate)  
   Connecte votre fréquence cardiaque à votre avatar.
@@ -82,15 +109,15 @@ Ces plugins sont **non officiels** et non développés par l'auteur du logiciel 
   Ajoute des paramètres pour contrôler le modèle via une manette.
 
 - [**VTS Image Gacha** - *No_Name_Paladin*](https://no-name-paladin.itch.io/vtube-studio-image-gacha)  
-  Permet au chat Twitch d’épingler aléatoirement des images sur le modèle.
+  Permet au chat Twitch d'épingler aléatoirement des images sur le modèle.
 
 ---
 
 ## 🧩 Comment utiliser un plugin ?
 
-### Activer l’API VTS
+### Activer l'API VTS
 
-Dans les paramètres, activez l’**API VTS**.  
+Dans les paramètres, activez l'**API VTS**.  
 Elle démarre par défaut sur le **port 8001** (ou 8002/8003 si déjà utilisé).  
 ℹ️ Vous pouvez changer le port manuellement avant le démarrage de l'API au besoin.
 
@@ -116,8 +143,8 @@ Supprimer ce dossier révoque toutes les autorisations.
 
 ## 🧑‍💻 Développer un plugin VTube Studio
 
-N’importe qui peut développer un plugin, gratuit ou payant, la [licence](https://denchisoft.com/license/) l'autorise.  
-Aucune licence ou redevance n’est demandée par DenchiSoft.
+N'importe qui peut développer un plugin, gratuit ou payant, la [licence](https://denchisoft.com/license/) l'autorise.  
+Aucune licence ou redevance n'est demandée par DenchiSoft.
 
 **Lien vers la documentation pour le développement:** \
 https://github.com/DenchiSoft/VTubeStudio/
@@ -132,7 +159,7 @@ Si ton plugin est utile, bien documenté et facile à installer, il pourra être
 
 ## 📄 Fin du tutoriel
 Tu sais enfin tout sur les plugins Vtube Studio !\
-[Tu peux reprendre la suite du guide d'installation si tu le souhaites](docs/installation-presentation-vtube-studio#module-api-de-léditeur-cubism-live-2d-pratique-pour-les-créateurs-live2d)
+[Tu peux reprendre la suite du guide d'installation si tu le souhaites](/docs/logiciels-2d/vtube-studio/installation-presentation-vtube-studio#module-api-de-léditeur-cubism-live-2d-pratique-pour-les-créateurs-live2d)
 
 ---
 

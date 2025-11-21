@@ -7,6 +7,6 @@ slug: /lexique/totsumachi
 ---
 
 ## Définition
-Stream «凸待ち» où le VTuber attend des appels entrants.
+Stream "凸待ち" où le VTuber attend des appels entrants.
 
 ## Sources

@@ -15,7 +15,7 @@ export default function AuthorInfo() {
         <div key={index} style={{marginBottom: '0.5rem'}}>
           {author.imageURL && <img src={author.imageURL} alt={author.name} style={{width: '40px', height: '40px', borderRadius: '50%', marginRight: '0.5rem'}} />}
           <strong>{author.name}</strong>
-          {author.title && <> — {author.title}</>}
+          {author.title && <> - {author.title}</>}
           {author.url && (
             <>
               {' '}• <a href={author.url} target="_blank">{translate({id: 'authorInfo.profile', message: 'Profil'})}</a>
