@@ -37,7 +37,7 @@ Notre objectif est simple : **faciliter l'accès à l'information** et **souteni
 
 FRVDocs vit grâce à ses contributeurs. Que vous souhaitiez corriger une petite faute, écrire un guide complet, proposer une amélioration ou participer aux échanges, **chaque contribution compte**.
 
-👉 Pour savoir comment contribuer, consultez la page : **[Comment contribuer](./contribuer)**.
+👉 Pour savoir comment contribuer, consultez la page : **[Comment contribuer](./intro/contribuer)**.
 
 Merci d'aider à faire grandir la documentation francophone des VTubers ! 🎉  
 N'hésitez pas à rejoindre le mouvement et à partager vos connaissances.

@@ -45,8 +45,8 @@ Privilégiez les conseils de votre professionnel de santé plutôt que tout ce q
 Ce guide vise à vous faire prendre conscience des risques qui viennent avec l'activité afin de vous aider à vous en prémunir et qu'on ne constate pas votre disparition des réseaux après seulement 6 mois de création de contenu
 
 ## 📞 Les contacts utiles à ne pas négliger
-[Numéro national de prévention du suicide](https://3114.fr/) : **31 14**\ 
-[SOS amitié](https://www.sosamitie.org/) : **09 72 39 40 50**
+- [Numéro national de prévention du suicide](https://3114.fr/) : **31 14** 
+- [SOS amitié](https://www.sosamitie.org/) : **09 72 39 40 50**
 
 Ces numéros sont **disponibles 24h/24 et 7 jours/7, appel gratuit**.
 

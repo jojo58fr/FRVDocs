@@ -363,10 +363,67 @@ Si tu veux plus de détail sur la configuration du Mocopi sur VTube Studio, [tu 
 
 ### 👤 Model Configuration
 
-![Les paramètres de modèles de VTube Studio](./img/vtube-studio-modelsettings-1.png)  
+![Les paramètres de modèles de VTube Studio](./img/vtube-studio-modelsettings-1.png)
+
+#### Vue global de la configuration de l'avatar
+
+- Idle Animation\
+Animation de base lorsque l'avatar est attente. Elle tourne en boucle.
+- Idle Animation (Tracking Lost)\
+Animation spécifique de l'avatar lorsque le tracking est perdu.
+
+ℹ️ Souvent les créateurs aiment mettre une animation d'endormissement du modèle.
+
+**Fix White Outline**: Si tu as des contours qui te parait étranges sur l'avatar, cela permet de corriger les contours de l'avatar.
+
+**Customize Model**: Permet de personnaliser ton modèle en modifiant les couleurs de certains **meshs** de ton avatar.
+
+**Pourquoi ce problème de contours sur mon avatar ?**\
+Ces contours sont parfois visibles sur les modèles avec des textures haute résolution et une peau plus foncée. 
+Si ton modèle contient de nombreuses textures haute résolution, cela peut prendre 1 à 2 minutes pour se terminer. 
+Tu n'as besoin que de l'exécuter qu'une seule fois par modèle, car la texture corrigée est sauvegardée ensuite.
+
+
+**⚠️ DISCLAIMER**: Cette opération écrase tes textures existantes, il est donc recommandé de faire une copie de sauvegarde de ton modèle avant de l'exécuter.
+
+
 ![Les paramètres de modèles de VTube Studio](./img/vtube-studio-modelsettings-2.png)  
+
+#### La configuration de mouvement (Movement Config)
+
+Une fois activé, permet de rajouter sur ton tracking, un **offset** (position) sur la position général du modèle.
+
+#### Les paramètres physiques de ton modèles (Physics Settings)
+
+Tu peux paramétrer aussi les paramètres physiques de ton modèles ici.
+
+⚠️ À noter que le rigger est censé déjà avoir préparé ton modèle, il y a des chances que tu ne sois pas obligé de remodifier comment la physique ce comporte sur ton modèle. Ne changes ces paramètres que lorsque tu considères que certaines physiques ne bougent pas comme tu le souhaites (pas assez ou trop par exemple).
+
+Tu peux paramétrer la physique en détail en cliquant sur le **⚙️ rouage** à côté de **Physics Strength**.
+
+![Les paramètres de modèles de VTube Studio](./img/vtubestudio-physics-strength.png)  
+
+Tu accéderas à une page qui te permet d'ajouter un multiplicateur à la physique déjà établis sur ton modèle Live2D.
+
 ![Les paramètres de modèles de VTube Studio](./img/vtube-studio-modelsettings-3.png)  
 
+#### C'est quoi un paramètre ?
+
+- Beaucoup de paramètres de modèles vont de **–30 à +30** (ex : rotation de la tête)
+- D'autres vont de **0 à 1** (ex : `MouthOpen`, yeux, expressions ON/OFF)
+
+**IN et OUT correspondent à**:
+- **Input** : valeur de tracking reçue (venant de la webcam/phone)
+- **Output** : valeur envoyée au paramètre du modèle
+
+
+Le but final est d'**adapter l'input à tes vrais mouvements** pour utiliser toute l'entièreté du **rig**.
+
+**Exemples de cas d'usage:**
+- Si en tournant la tête au maximum tu n'atteins que **20** alors que le paramètre va jusqu'à **30**, tu peux ajuster l'input max à **20** pour que ça corresponde à ton geste réel.
+- Si ta bouche est **légèrement ouverte au repos** alors qu'elle devrait être fermée :
+- Le tracking bouche peut donner un petit `0.008` au repos.
+- Tu peux mettre **min input = 0.008** pour map ce 0.008 → `0` en output.
 
 ### 🎬 Le paramètres des raccourcis clavier (Hotkeys)
 
