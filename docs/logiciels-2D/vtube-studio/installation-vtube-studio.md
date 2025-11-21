@@ -314,7 +314,7 @@ Clique sur "LipSync Type", Tu peux choisir entre deux types de LipSync:
   Basé sur [uLipSync par hecomi](https://github.com/hecomi/uLipSync). \
   Ce mode est rapide et précis, peut être calibré avec votre propre voix pour détecter avec exactitude les phonèmes **A, I, U, E, O**  C'est disponible de base sur toutes les plateformes (ordinateur et smartphone)
 
-Si tu veux plus de détail sur la configuration du LypSync sur VTube Studio, [tu peux suivre ce guide](/docs/logiciels-2d/vtube-studio/plugin-vtube-studio)
+Si tu veux plus de détail sur la configuration du LypSync sur VTube Studio, [tu peux suivre ce guide](/docs/logiciels-2d/vtube-studio/comment-bien-parametrer-lipsync)
 
 #### Intégration Twitch (déclencher des hotkeys via des Redeems)
 
@@ -338,9 +338,12 @@ Dès que tu seras en live, les viewers pourront déclencher ces features via Twi
 
 ![Les paramètres généraux de VTube Studio](./img/vtube-studio-settings-9.png)  
 
-**Discord Reactive** est un outil qui permet de visualiser un salon vocal Discord dans des streams en direct ou dans des vidéos enregistrées.
-Si tu ne fais pas de contenu vidéo ou de live, tu n'as probablement pas besoin d'utiliser Reactive.
-Cela dit, certaines personnes s'en servent comme webcam animée dans leurs appels Discord - et si c'est ton cas, libre à toi de l'utiliser !
+**Discord Reactive** est un outil qui permet de visualiser les personnes dans le salon vocal discord sous forme de PNGTuber ou GIFtuber. Par défaut, ce sont les icônes discord qui sont animés.
+
+ℹ️ Si tu ne fais pas de contenu vidéo ou de live, tu n'as probablement pas besoin d'utiliser Reactive.
+
+Lien vers discord reactive: \
+🔗 https://reactive.fugi.tech/
 
 ---
 #### Intégration Mocopi
@@ -354,7 +357,7 @@ Cela dit, certaines personnes s'en servent comme webcam animée dans leurs appel
 Ce module VTube Studio permet de capturer les mouvements de ton corps dans VTube Studio à l'aide du tracker mocopi de Sony. VTube Studio convertit facilement les mouvements 3D de ton corps en paramètres pour le modèles Live 2D.\
 Cela inclut les mouvements du corps, de la tête, des jambes, des bras et des mains. 
 
-⚠️ VTube Studio peut recevoir et utiliser les données mocopi uniquement sous Windows et macOS.
+⚠️ VTube Studio peut recevoir et utiliser les données mocopi **uniquement sous Windows et macOS**.
 
 Si tu veux plus de détail sur la configuration du Mocopi sur VTube Studio, [tu peux suivre ce guide](/docs/logiciels-2d/vtube-studio/comment-integrer-mocopi-vtube-studio)
 

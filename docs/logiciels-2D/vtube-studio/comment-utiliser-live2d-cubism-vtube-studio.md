@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 title: Comment tester mon modèle de Live2D à VTube Studio grâce à Live2D Cubism ?
 description: Comment associer Live2D Cubism à VTube Studio, tutoriel pour les Vtubers & Riggers live2D.
 slug: /logiciels-2d/vtube-studio/tester-modele-live2d-cubism-vtube-studio

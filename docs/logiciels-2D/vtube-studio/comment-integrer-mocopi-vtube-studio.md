@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 6
 title: Comment intégrer Mocopi sur VTube Studio ?
 description: Comment intégrer et utiliser Mocopi sur VTube Studio ?
 slug: /logiciels-2d/vtube-studio/comment-integrer-mocopi-vtube-studio
@@ -10,32 +10,27 @@ sidebar_label: Comment intégrer Mocopi sur VTube Studio ?
 
 ![Intégration Mocopi dans VTube Studio](./img/mocopi_example_dance.gif)
 
-ℹ️ À l'heure actuel, le support de cette technologie côté Mocopi ou VTube Studio est uniquement très présent pour les Japonais et Chinois. Merci de le prendre en compte lors de l'usage de cette technologie.
+ℹ️ À l'heure actuel, le support de cette technologie côté Mocopi ou VTube Studio est uniquement très présent pour **les Japonais et Chinois**. Merci de le prendre en compte lors de l'usage de cette technologie.
 
 Ce module VTube Studio permet de capturer les mouvements de ton corps dans VTube Studio à l'aide du tracker mocopi de Sony. VTube Studio convertit facilement les mouvements 3D de ton corps en paramètres pour le modèles Live 2D.\
 Cela inclut les mouvements du corps, de la tête, des jambes, des bras et des mains. 
 
-⚠️ VTube Studio peut recevoir et utiliser les données mocopi uniquement sous Windows et macOS.
+**⚠️ VTube Studio peut recevoir et utiliser les données Mocopi uniquement sous Windows et macOS.**
 
 ---
 
-## 🛠️ Comment intégrer Mocopi à Vtube Studio ?
+## ❓ Comment intégrer Mocopi à Vtube Studio ?
 
 > Un grand merci à guide officiel japonais de Sony, toutes les images proviendront de ce [guide japonais](https://www.sony.co.jp/en/Products/mocopi-dev/jp/documents/VTubeStudio/mocopi_VTubeStudio_HowTo.html)
 
-L'équipe mocopi de Sony as mis en place un modèle Live2D configuré pour VTube
-Studio. Ce modèle prend en charge tous les paramètres mocopi et peut
-être utilisé pour tester les fonctionnalités mocopi ou servir de
-référence pour votre propre modèle pour les riggers.\
+L'équipe mocopi de Sony as mis en place un modèle Live2D configuré pour VTube Studio. Ce modèle prend en charge tous les paramètres mocopi et peut être utilisé pour tester les fonctionnalités mocopi ou servir de référence pour votre propre modèle pour les riggers.\
 Le modèle est **gratuit** : [RAYNOS-chan-avatar_for_VTubeStudio](https://www.sony.co.jp/en/Products/mocopi-dev/jp/downloads/DownloadInfo.html#RAYNOS)
 
-Selon Sony, ce modèle peut être utilisé librement pour les diffusions, mais
-certaines restrictions peuvent s'appliquer. Oublies pas de lire le contrat de
-licence d'utilisation du personnage avant de le télécharger.
+Selon Sony, ce modèle peut être utilisé librement pour les diffusions, mais certaines restrictions peuvent s'appliquer. Oublies pas de lire le contrat de licence d'utilisation du personnage avant de le télécharger.
 
 ---
 
-## Configuration du Mocopi
+## 🛠️ Configuration du Mocopi
 
 La première étape consiste à configurer Mocopi et à envoyer
 les données vers VTube Studio. L'appareil Mocopi ne peut pas se
@@ -46,8 +41,7 @@ iOS/Android ou l'application PC Windows.
 
 -   Fonctionne sur smartphone et reçoit les données des trackers
     mocopi.
--   Ensuite, elle envoie les données à VTube Studio via le réseau
-    local/Wi-Fi.
+-   Ensuite, elle envoie les données à VTube Studio via le réseau local/Wi-Fi.
 -   L'application smartphone est gratuite.
 
 **Plus d'informations :** \
@@ -74,32 +68,27 @@ Ensuite, entrez cette adresse IP et ce port dans les paramètres de
 connexion tierce de l'application mocopi.
 
 Cliquez ensuite sur **"Démarrer l'envoi des données"** dans
-l'application mocopi, et assurez-vous que le récepteur mocopi est activé
-dans VTube Studio. La connexion sera alors établie et les données mocopi
-seront utilisables dans VTube Studio.
+l'application mocopi, et assurez-vous que le récepteur mocopi est activé dans VTube Studio.
+
+La connexion sera alors établie et les données mocopi seront utilisables dans VTube Studio.
 
 ---
 
-## Paramètres pris en charge
+## 🙍 Paramètres pris en charge
 
-Par défaut, VTube Studio masque les paramètres de suivi mocopi dans la
-liste des paramètres lors de la configuration du modèle.\
+Par défaut, VTube Studio masque les paramètres de suivi mocopi dans la liste des paramètres lors de la configuration du modèle.\
 Si vous utilisez mocopi, activez **"Afficher les paramètres de suivi"**
 dans les paramètres mocopi de VTube Studio.
 
 ### Remarque importante sur les plages de paramètres
 
-Les plages indiquées ci-dessous sont les valeurs min/max par défaut
-utilisées lorsque VTube Studio crée une nouvelle correspondance de
-paramètres.\
+Les plages indiquées ci-dessous sont les valeurs min/max par défaut utilisées lorsque VTube Studio crée une nouvelle correspondance de paramètres.
+
 Certains paramètres (comme *MocopiAngleX*) peuvent dépasser ces
 valeurs.\
-Les paramètres ayant une plage \[-180, 180\] ne peuvent pas dépasser ces
-limites : lorsqu'ils atteignent une extrémité, ils "bouclent" vers
-l'autre côté (rotation 360°).
+Les paramètres ayant une plage \[-180, 180\] ne peuvent pas dépasser ces limites : lorsqu'ils atteignent une extrémité, ils "bouclent" vers l'autre côté (rotation 360°).
 
-Pour comprendre en détail les valeurs des paramètres, consultez le
-modèle Live2D fourni par Sony (lien ci-dessus).
+Pour comprendre en détail les valeurs des paramètres, consultez le modèle Live2D fourni par Sony.
 
 ### Liste des paramètres mocopi dans VTube Studio
 
@@ -118,7 +107,8 @@ modèle Live2D fourni par Sony (lien ci-dessus).
 -   **MocopiAngleY**\
     Rotation haut/bas de la tête
 
--   **MocopiAngleZ** : inclinaison de la tête\
+-   **MocopiAngleZ** :\
+    Inclinaison de la tête\
     (Plage pour chacun : \[-30, 30\])
 
 -   **MocopiBodyAngleX/Y/Z**\
@@ -167,17 +157,14 @@ modèle Live2D fourni par Sony (lien ci-dessus).
 
 ---
 
-## Combinaison avec Webcam / iOS / Android
+## 📷 Combinaison avec Webcam / iOS / Android
 
-Si le récepteur mocopi est désactivé dans VTube Studio ou si aucune
-donnée n'est reçue, les paramètres utilisent automatiquement le suivi de
-la tête provenant de la webcam ou du smartphone.\
-Lorsque la réception mocopi s'arrête, tous les paramètres reviennent
-automatiquement à 0.
+Si le récepteur mocopi est désactivé dans VTube Studio ou si aucune donnée n'est reçue, les paramètres utilisent automatiquement le suivi de la tête provenant de la webcam ou du smartphone.\
+Lorsque la réception mocopi s'arrête, tous les paramètres reviennent automatiquement à 0.
 
 ---
 
-## Dépannage & FAQ
+## 📎 Dépannage & FAQ
 
 ### Plusieurs trackers mocopi envoient des données. Que se passe‑t‑il ?
 

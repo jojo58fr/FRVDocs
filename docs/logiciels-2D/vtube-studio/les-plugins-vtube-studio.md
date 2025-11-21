@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 3
 title: Les plugins VTube Studio
 description: Présentation des plugins et de l'API VTube Studio.
 slug: /logiciels-2d/vtube-studio/plugin-vtube-studio
