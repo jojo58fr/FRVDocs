@@ -104,9 +104,9 @@ Chaques paramètres VTube Studio a un **Input** (ce que votre visage envoie) et 
 
 Le fais que vous utiliser VBridger, vous devez **absoluement** régler la valeur Input Max et Input Min pour que les paramètres suivent le tracking VBridger.
 
-Pour savoir comment fonctionne le **système de paramètre sur VTube Studio**, veuillez vous référer au [guide d'installation]() qui vous explique de manière complète VTube Studio.
+Pour savoir comment fonctionne le **système de paramètre sur VTube Studio**, veuillez vous référer au [guide d'installation](/docs/logiciels-2d/vtube-studio/installation-presentation-vtube-studio) qui vous explique de manière complète VTube Studio.
 
-### Exemple de cas de figure, le sourire (mouthOpen)
+### Exemple de cas de figure, la bouche ouverte (mouthOpen)
 1. Ouvrez votre bouche et notez la valeur (exemple: 0.92)\
 2. Mettez-la dans l'Input Max.
 3. Le smoothing, par défaut à 0, permet de lisser le mouvement.\
