@@ -429,6 +429,56 @@ Le but final est d'**adapter l'input à tes vrais mouvements** pour utiliser tou
 
 ![Les paramètres de modèles de VTube Studio](./img/vtube-studio-hotkeysettings.png)  
 
+Les raccourcis clavier, ou hotkeys, sont l'un des outils les plus puissants de VTube Studio pour contrôler votre modèle Live2D en direct. Ils permettent d'activer des animations, de changer d'expression, de déplacer votre avatar, et bien plus encore, le tout en appuyant simplement sur une touche.
+
+#### Comment ce définis un raccourcis clavier sur VTube Studio ?
+
+Le raccourcis sur VTube Studio se définis en 3 sections:
+- L'Action à déclencher (Hotkey Action)
+- La combinaison de clavier pour déclencher le raccourcis (Key Combination)
+- **Et/Ou** un geste tracké associé (Gesture Trigger)
+
+#### Quels sont les actions possibles avec les raccourcis clavier ?
+- **Play Animation (motion3)**\
+Joue l'animation indiquée une fois (remplace le face tracking).
+
+- **Change Idle Animation (motion3)**\
+Change l'animation d'attente (idle) actuelle en boucle.
+Ce changement ne sera pas enregistré dans la configuration du modèle VTS.
+
+- **Set/Unset Expression (exp3)**\
+Active ou désactive l'expression indiquée dans le modèle (remplace le face tracking et les animations).
+Si plusieurs expressions modifient le même paramètre Live2D avec des valeurs différentes, la dernière expression appliquée décidera de la valeur finale.
+Plus d'informations dans le chapitre « Expressions ».
+
+- **Remove all Expressions**\
+Supprime toutes les expressions actuellement activées.
+
+- **Reload Model Texture**\
+Recharge la texture du modèle.
+Cela signifie que vous pouvez modifier la texture .PNG de votre modèle en dehors de l'application et la recharger instantanément.
+Peut être utilisé pour divers effets visuels pendant les streams.
+
+- **Move Model**\
+Déplace le modèle vers la position/rotation/taille indiquée.
+Vous pouvez définir une durée pour que le mouvement s'effectue.
+La position pour ce hotkey peut être enregistrée avec le bouton "Record Position", qui sauvegardera la position, la rotation et la taille actuelles du modèle.\
+ℹ️ Les chiffres affichés sont dans ce format: **position X, position Y, Taille, Rotation**.
+
+- **Change Background**\
+Change l'arrière-plan pour celui sélectionné pour ce hotkey.
+
+- **Reload Microphone**\
+Recharge le microphone actuellement utilisé pour la synchronisation labiale (LipSync).
+
+- **Calibrate Camera**\
+Lance une calibration de la caméra.
+
+- **Change VTS Model**\
+Change le modèle VTube Studio pour celui sélectionné pour ce hotkey.
+
+- **Take Screenshot**\
+Déclenche une capture d'écran en utilisant les paramètres de capture précédemment configurés.
 
 ---
 
