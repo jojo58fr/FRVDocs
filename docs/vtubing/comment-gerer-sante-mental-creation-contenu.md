@@ -1,8 +1,8 @@
 ---
-title: Comment gérer sa santé mental dans la création de contenu ?
-sidebar_label: Comment gérer sa santé mental dans la création de contenu ?
-description: Comment gérer sa santé mental dans la création de contenu ?
-slug: /vtubing/comment-gerer-sante-mental-creation-contenu
+title: Comment gérer sa santé mentale dans la création de contenu ?
+sidebar_label: Comment gérer sa santé mentale dans la création de contenu ?
+description: Comment gérer sa santé mentale dans la création de contenu ?
+slug: /vtubing/comment-gerer-sante-mentale-creation-contenu
 authors: [Marius, TakuDev]
 ---
 
@@ -80,7 +80,7 @@ Si il vous est difficile de faire ça avec les stats sous les yeux, alors cachez
 ## Comparaisons avec les autres créateurs de contenu
 
 Il peut être démoralisant en tant que créateur de voir d'autres créateurs plus récents que vous accomplir leurs objectifs beaucoup plus vite, ou d'avoir l'impression que vous n'atteindrez jamais une position comparable à quelqu'un qui semble faire un dixième de vos efforts.
-Certains en viennent parfois à se demander si leurs efforts sont suffisants, on si ils ne sont juste pas faits pour ça.
+Certains en viennent parfois à se demander si leurs efforts sont suffisants, ou si ils ne sont juste pas faits pour ça.
 
 Mais , en réalité il n'y a pas d'équation efficace pour la création de contenu, tant les paramètres sont nombreux, complexes et/ou hors de notre contrôle.
 
