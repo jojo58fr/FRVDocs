@@ -292,9 +292,9 @@ Tu peux paramétrer ton microphone sur VTube Studio ici ! Clique sur **Microphon
 Tu peux régler sur l'application:
 - Le gain de volume:\
 Si tu parles trop fort ou que le micro sature sur la preview, diminue le gain et à l'inverse, si tu parles trop doucement, tu peux l'augmenter.
-- Le seuil du volume (Volume Cutoff):\
+- Le seuil du volume (**Volume Cutoff**):\
 C'est le seul à partir du moment où tu modèle considère que tu es en train de parler. Si c'est trop bas, le lipsync bougera même avec du bruit de fond, si c'est trop haut, le lipsync ne s'activera que lorsque tu parles très fort. Cela permet d'ignorer le bruit de fond sur le microphone.
-- Le gain de fréquence (Frequency gain):\
+- Le gain de fréquence (**Frequency Gain**):\
 C'est utilise si ton micro manque de détection sur les aigus ou, à l'inverse, possède un son trop clair.
 Un réglage plus élevé peux aider à distinguer les mouvements de bouche.
 
@@ -306,11 +306,11 @@ Ce module permet à VTube Studio d'analyser ta voix pour calculer la forme que d
 Dépendant de comment tu as configuré VTube Studio, tu peux aussi tracker ta bouche avec le tracking de la caméra ou téléphone.
 
 Clique sur "LipSync Type", Tu peux choisir entre deux types de LipSync:
-- LipSync Simple:\
+- **LipSync Simple:**\
   Uniquement pour Windows, l'option est basée sur [Occulus VR Lipsync](https://developers.meta.com/horizon/documentation/unity/audio-ovrlipsync-unity/?locale=fr_FR). \
   **⚠️ Feature dépréciée**, VTube studio souhaite que les utilisateurs utilisent le **LypSync Avancée** car ils prends les mêmes paramètres (et plus) avec une meilleure précision.
 
-- LipSync avancée:\
+- **LipSync avancée:**\
   Basé sur [uLipSync par hecomi](https://github.com/hecomi/uLipSync). \
   Ce mode est rapide et précis, peut être calibré avec votre propre voix pour détecter avec exactitude les phonèmes **A, I, U, E, O**  C'est disponible de base sur toutes les plateformes (ordinateur et smartphone)
 
@@ -369,7 +369,7 @@ Si tu veux plus de détail sur la configuration du Mocopi sur VTube Studio, [tu 
 
 - Idle Animation\
 Animation de base lorsque l'avatar est attente. Elle tourne en boucle.
-- Idle Animation (Tracking Lost)\
+- Idle Animation (**Tracking Lost**)\
 Animation spécifique de l'avatar lorsque le tracking est perdu.
 
 ℹ️ Souvent les créateurs aiment mettre une animation d'endormissement du modèle.
@@ -434,9 +434,9 @@ Les raccourcis clavier, ou hotkeys, sont l'un des outils les plus puissants de V
 #### Comment ce définis un raccourcis clavier sur VTube Studio ?
 
 Le raccourcis sur VTube Studio se définis en 3 sections:
-- L'Action à déclencher (Hotkey Action)
-- La combinaison de clavier pour déclencher le raccourcis (Key Combination)
-- **Et/Ou** un geste tracké associé (Gesture Trigger)
+- L'Action à déclencher (**Hotkey Action**)
+- La combinaison de clavier pour déclencher le raccourcis (**Key Combination**)
+- **Et/Ou** un geste tracké associé (**Gesture Trigger**)
 
 #### Quels sont les actions possibles avec les raccourcis clavier ?
 - **Play Animation (motion3)**\
